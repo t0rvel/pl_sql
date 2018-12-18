@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<policy_export>
+<policies>
+<policy>
+<main>
+<policynumber id="-1">SGC05095-04</policynumber>
+<policynumber_prefix id="32807925">SGC05095</policynumber_prefix>
+<policynumber_suffix id="33661325">04</policynumber_suffix>
+<policyeffdate id="33660725">03/02/2018</policyeffdate>
+<policyexpdate_renewal_of id="33660825">03/02/2019</policyexpdate_renewal_of>
+<rnwlofpolexpdate id="-1"></rnwlofpolexpdate>
+<rnwlofpolicynum id="-1">SGC05095-03</rnwlofpolicynum>
+<rnwlofpolicyproduct_sn id="-1">Misc</rnwlofpolicyproduct_sn>
+<renewal_quickauto id="34162725">2</renewal_quickauto>
+<eligibleforadm id="-1">No</eligibleforadm>
+<renewal_from id="32807825">UWWB</renewal_from>
+<change_renewal_type id="34163025">FALSE</change_renewal_type>
+<renewal_type id="-1">FALSE</renewal_type>
+<is_policy_an_annual_term id="32681925">Yes</is_policy_an_annual_term>
+<renewal_annualprem id="34246025">3021</renewal_annualprem>
+<renewal_termprem id="34245925">3021</renewal_termprem>
+</main>
+<account>
+<appname id="29238814">One Touch Living</appname>
+<appaddr1 id="29325214">15932 Bernardo Center Drive</appaddr1>
+<appaddr2 id="210417"></appaddr2>
+<appcity id="29326314">San Diego</appcity>
+<appstate id="210419">CA</appstate>
+<appregion id="-1">West</appregion>
+<appcountry id="210423">USA</appcountry>
+<appzip id="29327414">92127</appzip>
+<appdivision id="-1">Pacific</appdivision>
+<appdba id="32976225"></appdba>
+<apppka id="32208725">One Touch Living Inc.</apppka>
+<phone id="30589146">(858) 798-9130</phone>
+<website id="29236214">www.1touchliving.com</website>
+<appnum id="-1">78097</appnum>
+<statetrannum id="-1"></statetrannum>
+<oniselection id="32976125"></oniselection>
+</account>
+<producer>
+<brokernum id="-1">1059</brokernum>
+<brokercontactnum id="-1">2</brokercontactnum>
+<brokername id="-1">Monarch E&amp;S Insurance Services a division of SPG Insurance Solutions</brokername>
+<brokercity id="-1">Burbank</brokercity>
+<brokerst id="-1">CA</brokerst>
+<brokercountry id="-1">USA</brokercountry>
+<brokertype id="-1">Wholesaler</brokertype>
+<brokerregion id="-1">West</brokerregion>
+<brokerdivision id="-1">Pacific</brokerdivision>
+<brokergroup id="-1">Monarch</brokergroup>
+<uw_primary id="-1">Alice Ergovich</uw_primary>
+<uw_secondary id="-1"></uw_secondary>
+<brokercontactname id="-1">Wayne Bernstein</brokercontactname>
+<brokercontactemail id="26590707">wayneb@monarchexcess.com</brokercontactemail>
+<brokerphone id="32001225"></brokerphone>
+<brokercontact_firstname id="-1">Wayne</brokercontact_firstname>
+<brokercontact_lastname id="-1">Bernstein</brokercontact_lastname>
+<capitolagencycode id="26590907">99991</capitolagencycode>
+<bkr_comm_details>
+<origbkrcommprct id="29428314">20</origbkrcommprct>
+<waiveflag id="33574625">No</waiveflag>
+<actbkrcommprct id="-1">20</actbkrcommprct>
+</bkr_comm_details>
+</producer>
+<basic_info>
+<product enumerated_id="20625" id="31916925">Miscellaneous E&amp;O</product>
+<segment enumerated_id="44225" id="31917125">Miscellaneous E&amp;O</segment>
+<vertical enumerated_id="8125" id="31919625">Errors and Omissions</vertical>
+<submissionincludedlines enumerated_id="20625" id="27354305">Miscellaneous E&amp;O</submissionincludedlines>
+<datesubmitted id="-1">02/01/2018</datesubmitted>
+<underwriter id="-1">Tonya Birnell</underwriter>
+<renewalunderwriter id="26590807">Hope Cappoferri</renewalunderwriter>
+<primaryclass id="-1">ID</primaryclass>
+<primaryclassdescription id="32231025">Interior / Exterior Design</primaryclassdescription>
+<secondaryclass id="-1">AV</secondaryclass>
+<secondaryclassdescription id="32231125">Audio Visual / Acoustical Design</secondaryclassdescription>
+<naicscode id="32338425">541330</naicscode>
+<nr_sgi enumerated_id="8" id="31925325">Renewal</nr_sgi>
+<servicesprovided id="34175125">Audio/visual equipment sales installation design and programming.</servicesprovided>
+</basic_info>
+<subn>
+<submissionnum id="-1">4</submissionnum>
+</subn>
+<addl_info>
+<bindereffdate id="-1"></bindereffdate>
+<binderexpdate id="-1"></binderexpdate>
+<extrptprdexpdate id="-1"></extrptprdexpdate>
+<canceleffdate id="-1"></canceleffdate>
+<cancelreason id="-1"></cancelreason>
+<cancelflat_rewrite id="-1">No</cancelflat_rewrite>
+<hasins_1sttimebuyer id="-1"></hasins_1sttimebuyer>
+<keeprnwlwithuw id="-1">No</keeprnwlwithuw>
+</addl_info>
+<addl_calcs>
+<limitfactor id="-1">1</limitfactor>
+<deductiblefactor id="-1">1</deductiblefactor>
+</addl_calcs>
+<admin>
+<rnwl_qa_kickoutreason id="-1"></rnwl_qa_kickoutreason>
+</admin>
+<claim_hist>
+<clmhistevaluw id="34051725">no claims</clmhistevaluw>
+<claim_history_experience_severity id="31987325">No Prior Claims</claim_history_experience_severity>
+<claimhistory_factor id="31987525">.85</claimhistory_factor>
+<claimfree id="-1">No</claimfree>
+</claim_hist>
+<forms_and_endts>
+<form>
+<endtnum id="-1">  </endtnum>
+<formtitles id="-1">WHAT TO DO IF YOU HAVE A CLAIM OR POTENTIAL CLAIM OR INCIDENT</formtitles>
+<formnums id="-1">N-200 (09/16)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<endtnum id="-1">  </endtnum>
+<formtitles id="-1">Miscellaneous E&amp;O Policy</formtitles>
+<formnums id="-1">P-M-CW2000TR (1-14)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<endtnum id="-1">1</endtnum>
+<formtitles id="-1">California - Service of Suit</formtitles>
+<formnums id="-1">E-9000-CA (02/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<endtnum id="-1">2</endtnum>
+<formtitles id="-1">Additional Insured - Designated Entity Extension Endorsement</formtitles>
+<formnums id="-1">E-C-4022TR (1-14)</formnums>
+<fill_ins>
+<fill_in>
+<additional_insured_name baseform="4022" id="32289525">Nevada Property 1 LLC dba The Cosmopolitan of Las Vegas</additional_insured_name>
+</fill_in>
+</fill_ins>
+</form>
+<form>
+<endtnum id="-1">3</endtnum>
+<formtitles id="-1">Cancellation - Notice to Designated Third Party</formtitles>
+<formnums id="-1">E-PL-7017 (07/17)</formnums>
+<fill_ins>
+<fill_in>
+<address baseform="7017" id="32260525">3708 Las Vegas Boulevard South</address>
+</fill_in>
+<fill_in>
+<city baseform="7017" id="34045725">Las Vegas</city>
+</fill_in>
+<fill_in>
+<state_code baseform="7017" id="32971725">NV</state_code>
+</fill_in>
+<fill_in>
+<postal_code baseform="7017" id="33691225">89109</postal_code>
+</fill_in>
+</fill_ins>
+</form>
+<form>
+<endtnum id="-1">4</endtnum>
+<formtitles id="-1">Definition of Insured Extension Endorsement - Independent Contractors</formtitles>
+<formnums id="-1">E-C-4006TR (1-14)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<endtnum id="-1">5</endtnum>
+<formtitles id="-1">Professional Services Exclusion Endorsement</formtitles>
+<formnums id="-1">E-C-4038 (10-09)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<endtnum id="-1">6</endtnum>
+<formtitles id="-1">Vendors or Suppliers Inability to Pay Exclusion Endorsement</formtitles>
+<formnums id="-1">E-C-4044 (10-09)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<endtnum id="-1">7</endtnum>
+<formtitles id="-1">Waiver of Subrogation Change Endorsement</formtitles>
+<formnums id="-1">E-C-4049TR (1-14)</formnums>
+<fill_ins>
+<fill_in>
+<person_or_organization baseform="4049" id="32289525">Nevada Property 1 LLC dba The Cosmopolitan of Las Vegas</person_or_organization>
+</fill_in>
+</fill_ins>
+</form>
+<form>
+<endtnum id="-1">  </endtnum>
+<formtitles id="-1">NOTICE</formtitles>
+<formnums id="-1">D-2</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+</forms_and_endts>
+<miscellaneous>
+</miscellaneous>
+<rating_basic>
+<coverages id="-1">E&amp;O</coverages>
+<coverages_desc id="-1">Miscellaneous E&amp;O</coverages_desc>
+<covglayer id="-1">Primary</covglayer>
+<covgtype id="31995925">Claims Made</covgtype>
+<claimexpense id="32336425">Within the Limits</claimexpense>
+<carriername enumerated_id="33305" id="26509507">Capitol Specialty Insurance Corporation</carriername>
+<an id="31924625">Surplus Lines</an>
+<ratingquotedate id="-1">12/18/2017</ratingquotedate>
+<hazardgroup_previous id="32115525"></hazardgroup_previous>
+<hazardgroup_projected id="32115525"></hazardgroup_projected>
+<firstdollar id="-1">No</firstdollar>
+<terrorismcovg id="-1">No</terrorismcovg>
+<tria_acceptorreject id="-1"></tria_acceptorreject>
+<terrorismpremprct id="-1">0</terrorismpremprct>
+<ratingdesc id="-1">2018 Rating</ratingdesc>
+<standard_insuredactivities id="33307225">Audio visual or acoustical design services.</standard_insuredactivities>
+</rating_basic>
+<rating_init_calcs>
+<ratingbasis_projected id="31905125">4000000</ratingbasis_projected>
+<ratingbasis_previous id="31905125">4000000</ratingbasis_previous>
+<ratingbasis_adjusted id="34050325">No</ratingbasis_adjusted>
+<ratingbasis_adjusted_desc id="34050425"></ratingbasis_adjusted_desc>
+<baserate id="-1">1.95</baserate>
+<baseded id="34048825">2500</baseded>
+<hazardgroup_input id="32135225">.5</hazardgroup_input>
+<premiumafterriskfactor id="-1"></premiumafterriskfactor>
+<retrotype id="-1">Average</retrotype>
+<prioractsexcluded id="32039525">Other</prioractsexcluded>
+<retrofactordefault id="34043725">1.35</retrofactordefault>
+<retrofactorused id="34043625">1.35</retrofactorused>
+<retrodate id="28164105">03/02/2015</retrodate>
+</rating_init_calcs>
+<rating_structure>
+<limiteachact id="34043925">1000000</limiteachact>
+<limitaggregate id="34044025">1000000</limitaggregate>
+<dedeachact id="34048925">2500</dedeachact>
+</rating_structure>
+<coverage_mods>
+<additional_insureds_coverage id="32450225"  base_form="4022" source="CoverageModDesDsp_1[1] ()">Yes</additional_insureds_coverage>
+<independent_contractors id="34140425"  base_form="4006" source="CoverageModDesDsp_1[10] ()">Yes</independent_contractors>
+</coverage_mods>
+<hazard_mods>
+<hazardmoddesdsp_1_12 id="-1"  base_form="" source="rating :Management Experience">Yes</hazardmoddesdsp_1_12>
+<schedule_eando_management_experience_input_rf id="34116325"  base_form="4039" source="rating">.75</schedule_eando_management_experience_input_rf>
+<hazardmoddesdsp_1_13 id="-1"  base_form="" source="rating :Procedures &amp; Internal Codes">Yes</hazardmoddesdsp_1_13>
+<schedule_eando_procedures_internal_controls_input_rf id="34110625"  base_form="" source="rating">.9</schedule_eando_procedures_internal_controls_input_rf>
+</hazard_mods>
+<form_attach>
+<erp_checkbox id="34228725">No</erp_checkbox>
+</form_attach>
+</policy>
+</policies>
+</policy_export>

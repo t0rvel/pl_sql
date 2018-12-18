@@ -1,0 +1,1 @@
+grant all on "CAP_ST"."FEED_FROM_UWWB" to "CAP_API" ;

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<policy_export>
+<policies>
+<policy>
+<main>
+<policynumber id="-1">SGC06496-02</policynumber>
+<policynumber_prefix id="32807925">SGC06496</policynumber_prefix>
+<policynumber_suffix id="33661325">02</policynumber_suffix>
+<policyeffdate id="33660725">08/09/2017</policyeffdate>
+<policyexpdate id="33660825">08/09/2018</policyexpdate>
+<rnwlofpolexpdate id="33660825">08/09/2018</rnwlofpolexpdate>
+<policyexpdate id="33660825">08/09/2018</policyexpdate>
+<rnwlofpolicynum id="-1">SGC06496-01</rnwlofpolicynum>
+<rnwlofpolicyproduct_sn id="-1">TMC</rnwlofpolicyproduct_sn>
+<renewal_quickauto id="-1">2</renewal_quickauto>
+<renewal_form id="32807825">UWWB</renewal_form>
+<change_renewal_type id="-1">FALSE</change_renewal_type>
+<renewal_type id="-1">FALSE</renewal_type>
+<is_policy_an_annual_term id="32681925">Yes</is_policy_an_annual_term>
+</main>
+<account>
+<appname id="29238814">DC Medical Billing, LLC</appname>
+<appaddr1 id="29325214">3121 Lake Trail Drive</appaddr1>
+<appaddr2 id="210417"></appaddr2>
+<appcity id="29326314">Metairie</appcity>
+<appstate id="210419">LA</appstate>
+<appregion id="-1">South</appregion>
+<appcountry id="210423">USA</appcountry>
+<appzip id="29327414">70003</appzip>
+<appdivision id="-1">West South Central</appdivision>
+<appdba id="32976225"></appdba>
+<apppka id="32208725">DC Medical Billing, LLC</apppka>
+<phone id="30589146">(504) 495-9757</phone>
+<website id="29236214">www.dcmedicalbilling.com</website>
+<appnum id="-1">90522</appnum>
+<statetrannum id="-1"></statetrannum>
+<oniselection id="32976125"></oniselection>
+<clmhistevaluw id="34051725">2017: One old claim reported in 2014 (before we wrote policy) for billing error (see key u/w in last year&amp;apos;s file)  Still open - Attorneys fees only have been paid - no claim payments.  The claim appears to be without merit.  $10K paid to date (3K by Insd - 7K by Hiscox).  Claim is expected to be closed in 2018.   No other claims.</clmhistevaluw>
+</account>
+<producer>
+<brokernum id="-1">1626</brokernum>
+<brokercontactnum id="-1">7</brokercontactnum>
+<brokername id="-1">Rockwood Programs</brokername>
+<brokercity id="-1">Claymont</brokercity>
+<brokerst id="-1">DE</brokerst>
+<brokercountry id="-1">USA</brokercountry>
+<brokertype id="-1">Wholesaler</brokertype>
+<brokerregion id="-1">South</brokerregion>
+<brokerdivision id="-1">South Atlantic</brokerdivision>
+<brokergroup id="-1"></brokergroup>
+<uw_primary id="-1"></uw_primary>
+<uw_secondary id="-1"></uw_secondary>
+<brokercontactname id="-1">Kathy Hasted</brokercontactname>
+<brokercontactemail id="-1">kathy.hasted@rockwoodinsurance.com</brokercontactemail>
+<brokerphone id="-1">(302) 765-6000</brokerphone>
+<capitolagencycode id="26590707">70523</capitolagencycode>
+<bkr_comm_details>
+<origbkrcommprct id="29428314">20</origbkrcommprct>
+<waiveflag id="33574625">N</waiveflag>
+<newbkrcommprct id="34069025">0</newbkrcommprct>
+<actbkrcommprct id="-1">20</actbkrcommprct>
+</bkr_comm_details>
+</producer>
+<basic_info>
+<product enumerated_id="20725" id="31916925">Technology / Media / Cyber</product>
+<segment enumerated_id="44125" id="31917125">Technology / Media / Cyber</segment>
+<vertical enumerated_id="325" id="31919625">Technology</vertical>
+<submissionincludedlines enumerated_id="20725" id="27354305">Technology / Media / Cyber</submissionincludedlines>
+<datesubmitted id="-1">07/05/2017</datesubmitted>
+<underwriter id="-1">Carol Haralson</underwriter>
+<renewalunderwriter id="-1">Audrey Oglesby</renewalunderwriter>
+<product enumerated_id="20725" id="31916925">Technology / Media / Cyber</product>
+<primaryclass id="-1">HS</primaryclass>
+<primaryclassdescription id="32231025">Health Service Administration</primaryclassdescription>
+<secondaryclass id="-1">BL</secondaryclass>
+<secondaryclassdescription id="32231125">Billing / Coding - Insurance / Medicare / Medicaid</secondaryclassdescription>
+<naicscode id="32338425">541219</naicscode>
+<nr_sgi enumerated_id="8" id="31925325">Renewal</nr_sgi>
+<nr_sgi enumerated_id="8" id="31925325">Renewal</nr_sgi>
+<servicesprovided id="34051225">Medical billing services; www.dcmedicalbilling.com</servicesprovided>
+</basic_info>
+<subn>
+<submissionnum id="-1">2</submissionnum>
+</subn>
+<addl_info>
+<bindereffdate id="-1">08/09/2017</bindereffdate>
+<binderexpdate id="-1">09/08/2017</binderexpdate>
+<extrptprdexpdate id="-1"></extrptprdexpdate>
+<canceleffdate id="-1"></canceleffdate>
+<cancelreason id="-1"></cancelreason>
+<cancelflat_rewrite id="-1">No</cancelflat_rewrite>
+<hasins_1sttimebuyer id="-1"></hasins_1sttimebuyer>
+<keeprnwlwithuw id="-1">N</keeprnwlwithuw>
+<hasclaims id="-1">N</hasclaims>
+</addl_info>
+<addl_calcs>
+<limitfactor id="-1">0</limitfactor>
+<deductiblefactor id="-1"></deductiblefactor>
+</addl_calcs>
+<admin>
+<rnwl_qa_kickoutreason id="-1"></rnwl_qa_kickoutreason>
+</admin>
+<claim_hist>
+<claimfree id="-1"></claimfree>
+<claimfree_credit id="31987525">0</claimfree_credit>
+<claimactsurcharge_factor id="-1">1</claimactsurcharge_factor>
+</claim_hist>
+<forms_and_endts>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">WHAT TO DO IF YOU HAVE A CLAIM OR POTENTIAL CLAIM OR INCIDENT</formtitles>
+<formnums id="-1">N-201 (09/16)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">CapSpecialty Technology / Media / Cyber Policy</formtitles>
+<formnums id="-1">P-TMC-CW2010 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Medical Billing / Coding Change Endorsement</formtitles>
+<formnums id="-1">E-TMC-5030 (02/16)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Business Interruption Loss and Extra Expenses Coverage Endorsement</formtitles>
+<formnums id="-1">E-TMC-4146 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Definition of Content Change Endorsement</formtitles>
+<formnums id="-1">E-TMC-4155 (09/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Financial / Healthcare / Employee Benefit Plan Exclusion Endorsement - Employee Privacy Incident</formtitles>
+<formnums id="-1">E-TMC-4217 (11/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Unencrypted Laptops / Portable Devices Exclusion Endorsement</formtitles>
+<formnums id="-1">E-TC-4133 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Nuclear Energy Liability Exclusion Endorsement</formtitles>
+<formnums id="-1">E-TC-8115 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Service of Suit</formtitles>
+<formnums id="-1">E-9000 (02/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">IMPORTANT NOTICE!</formtitles>
+<formnums id="-1">N-TC-111 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">First Named Insured and Mailing Address Change Endorsement</formtitles>
+<formnums id="-1">E-TC-3000 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+</forms_and_endts>
+<miscellaneous>
+<renewal_quickautuo id="-1"></renewal_quickautuo>
+<eligibleforadm id="-1">N</eligibleforadm>
+</miscellaneous>
+<rating_basis>
+<coverages id="-1">E&amp;O</coverages>
+<coverages_desc id="-1">Technology and Internet</coverages_desc>
+<covglayer id="-1">Primary</covglayer>
+<covgtype id="31995925">Claims Made &amp; Reported</covgtype>
+<claimexpense id="32128825">Within the Limits</claimexpense>
+<carriername enumerated_id="33305" id="26509507">Capitol Specialty Insurance Corporation</carriername>
+<an id="31924625">Surplus Lines</an>
+<ratingquotedate id="22120805">07/06/2017</ratingquotedate>
+<segmentnum id="32115525"></segmentnum>
+<firstdollar id="-1">N</firstdollar>
+<terrorismcovg id="31918825">N</terrorismcovg>
+<tria_acceptorreject id="-1"></tria_acceptorreject>
+<terrorismpremprct id="33697125"></terrorismpremprct>
+<ratingdesc id="-1">2017 Rating</ratingdesc>
+<standard_insuredactivities id="33307225"></standard_insuredactivities>
+</rating_basis>
+<rating_init_calcs>
+<ratingbasis id="31905125"></ratingbasis>
+<ratingbasies_adjusted id="34050325"></ratingbasies_adjusted>
+<ratingbasis_adjusted_desc id="34050425"></ratingbasis_adjusted_desc>
+<baserate id="-1"></baserate>
+<baseded id="34048825"></baseded>
+<riskfactor id="32135225"></riskfactor>
+<premiumafterriskfactor id="-1"></premiumafterriskfactor>
+<retrotype id="-1">NA</retrotype>
+<prioractsexcluded id="32039525">No</prioractsexcluded>
+<retrofactordefault id="34043725">No</retrofactordefault>
+<retrofactorused id="34043625">No</retrofactorused>
+<retrodate id="28164105">08/09/2013</retrodate>
+</rating_init_calcs>
+<rating_structure>
+<limiteachact id="32118525">1000000</limiteachact>
+<limitaggregate id="32197425">1000000</limitaggregate>
+<sublimit_covered id="-1"></sublimit_covered>
+<sublimit_amts id="-1">0</sublimit_amts>
+<dedeachact id="32118625">2500</dedeachact>
+<dedaggregate id="33290725"></dedaggregate>
+<cxratingmod_defaultfactor_3 id="-1"></cxratingmod_defaultfactor_3>
+<coveragemod_defaultfactor_1_3 id="-1"></coveragemod_defaultfactor_1_3>
+<coveragemod_minfactor_1_3 id="-1"></coveragemod_minfactor_1_3>
+<coveragemod_maxfactor_1_3 id="-1"></coveragemod_maxfactor_1_3>
+</rating_structure>
+<coverage_mods>
+<encrypted_laptop_and_portable_devices_coverage_indicator id="34048325">Exclusion</encrypted_laptop_and_portable_devices_coverage_indicator>
+<encrypted_laptop_and_portable_devices_coverage id="32216825">TRUE</encrypted_laptop_and_portable_devices_coverage>
+<business_interruption_loss_extra_expense_limit baseform="4146" fillable_source="" id="32127225"></business_interruption_loss_extra_expense_limit>
+<business_interruption_loss_extra_expense_retention baseform="4146" fillable_source="" id="32171525"></business_interruption_loss_extra_expense_retention>
+<bodily_injury_and_property_damage_coverage_sublimit id="32124125">TRUE</bodily_injury_and_property_damage_coverage_sublimit>
+<financial_healthcare_employee_benefit_exclusion_type id="34068725">Employee Privacy</financial_healthcare_employee_benefit_exclusion_type>
+<financial_healthcare_employee_benefit_exclusion id="34068625">TRUE</financial_healthcare_employee_benefit_exclusion>
+</coverage_mods>
+<coverage_mods_rating_structure>
+</coverage_mods_rating_structure>
+<hazard_mods>
+</hazard_mods>
+<Hazard_Mods_Claims>
+</Hazard_Mods_Claims>
+</policy>
+</policies>
+</policy_export>

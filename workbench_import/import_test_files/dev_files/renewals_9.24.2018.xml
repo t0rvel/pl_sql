@@ -1,0 +1,3341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<policy_export>
+<policies>
+<policy>
+<main>
+<policynumber id="-1">SGC06560-03</policynumber>
+<policynumber_prefix id="32807925">SGC06560</policynumber_prefix>
+<policynumber_suffix id="33661325">03</policynumber_suffix>
+<policyeffdate id="33660725">09/02/2018</policyeffdate>
+<policyexpdate id="33660825">09/02/2019</policyexpdate>
+<rnwlofpolexpdate id="33660825"></rnwlofpolexpdate>
+<policyexpdate id="33660825"></policyexpdate>
+<rnwlofpolicynum id="-1">SGC06560-02</rnwlofpolicynum>
+<rnwlofpolicyproduct_sn id="-1">Assoc</rnwlofpolicyproduct_sn>
+<renewal_quickauto id="34162725">2</renewal_quickauto>
+<renewal_form id="32807825">UWWB</renewal_form>
+<change_renewal_type id="34163025">FALSE</change_renewal_type>
+<renewal_type id="-1">FALSE</renewal_type>
+<is_policy_an_annual_term id="32681925">Yes</is_policy_an_annual_term>
+</main>
+<account>
+<appname id="29238814">North Carolina Auctioneer Licensing Board</appname>
+<appaddr1 id="29325214">108 Ber Creek Drive</appaddr1>
+<appaddr2 id="210417"></appaddr2>
+<appcity id="29326314">Fuquay</appcity>
+<appstate id="210419">NC</appstate>
+<appregion id="-1">South</appregion>
+<appcountry id="210423">USA</appcountry>
+<appzip id="29327414">27526</appzip>
+<appdivision id="-1">South Atlantic</appdivision>
+<appdba id="32976225"></appdba>
+<apppka id="32208725">North Carolina Auctioneer Licensing Board</apppka>
+<phone id="30589146"></phone>
+<website id="29236214">www.ncalb.com</website>
+<appnum id="-1">89951</appnum>
+<statetrannum id="-1"></statetrannum>
+<oniselection id="32976125"></oniselection>
+<clmhistevaluw id="34051725">No claim history</clmhistevaluw>
+</account>
+<producer>
+<brokernum id="-1">1363</brokernum>
+<brokercontactnum id="-1">2</brokercontactnum>
+<brokername id="-1">CRC Insurance Services, Inc.</brokername>
+<brokercity id="-1">High Point</brokercity>
+<brokerst id="-1">NC</brokerst>
+<brokercountry id="-1">USA</brokercountry>
+<brokertype id="-1">Wholesaler</brokertype>
+<brokerregion id="-1">South</brokerregion>
+<brokerdivision id="-1">South Atlantic</brokerdivision>
+<brokergroup id="-1">CRC</brokergroup>
+<uw_primary id="-1"></uw_primary>
+<uw_secondary id="-1"></uw_secondary>
+<brokercontactname id="-1">Karen McBride</brokercontactname>
+<brokercontactemail id="-1">kmcbride@crcins.com</brokercontactemail>
+<brokerphone id="-1">(336) 885-6808</brokerphone>
+<capitolagencycode id="26590707">70330</capitolagencycode>
+<bkr_comm_details>
+<origbkrcommprct id="29428314">20</origbkrcommprct>
+<waiveflag id="33574625">N</waiveflag>
+<newbkrcommprct id="34069025">0</newbkrcommprct>
+<actbkrcommprct id="-1">20</actbkrcommprct>
+</bkr_comm_details>
+</producer>
+<basic_info>
+<product enumerated_id="20725" id="31916925">Association E&amp;O</product>
+<datesubmitted id="-1">09/04/2018</datesubmitted>
+<underwriter id="26590807">Audrey Oglesby</underwriter>
+<renewalunderwriter id="-1">Audrey Oglesby</renewalunderwriter>
+<product enumerated_id="20725" id="31916925">Association E&amp;O</product>
+<primaryclass id="-1">AS</primaryclass>
+<primaryclassdescription id="32231025">Association</primaryclassdescription>
+<secondaryclass id="-1">CT</secondaryclass>
+<secondaryclassdescription id="32231125">Certification / Accreditation Testing / Monitoring</secondaryclassdescription>
+<naicscode id="32338425">926150</naicscode>
+<nr_sgi id="31925325">Renewal</nr_sgi>
+<vertical id="31919625">Errors and Omissions</vertical>
+<nr_sgi id="31925325">Renewal</nr_sgi>
+<naicscode id="32338425">926150</naicscode>
+<servicesprovided id="34053925">Association Activities as defined in the Policy.</servicesprovided>
+</basic_info>
+<subn>
+<submissionnum id="-1">4</submissionnum>
+</subn>
+<addl_info>
+<bindereffdate id="-1">09/02/2018</bindereffdate>
+<binderexpdate id="-1">10/02/2018</binderexpdate>
+<extrptprdexpdate id="-1"></extrptprdexpdate>
+<canceleffdate id="-1"></canceleffdate>
+<cancelreason id="-1"></cancelreason>
+<cancelflat_rewrite id="-1">N</cancelflat_rewrite>
+<hasins_1sttimebuyer id="-1"></hasins_1sttimebuyer>
+<keeprnwlwithuw id="-1">N</keeprnwlwithuw>
+<hasclaims id="-1">N</hasclaims>
+</addl_info>
+<addl_calcs>
+<limitfactor id="-1">1</limitfactor>
+<deductiblefactor id="-1">1.25</deductiblefactor>
+</addl_calcs>
+<admin>
+<rnwl_qa_kickoutreason id="-1">Class Codes</rnwl_qa_kickoutreason>
+</admin>
+<claim_hist>
+<claimfree id="-1"></claimfree>
+<claimfree_credit id="31987525">0</claimfree_credit>
+<claimactsurcharge_factor id="-1">1</claimactsurcharge_factor>
+</claim_hist>
+<forms_and_endts>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">WHAT TO DO IF YOU HAVE A CLAIM OR POTENTIAL CLAIM OR INCIDENT</formtitles>
+<formnums id="-1">N-200 (09/16)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Association E&amp;O Policy</formtitles>
+<formnums id="-1">P-C-A-CW2002TR (1-14)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Service of Suit</formtitles>
+<formnums id="-1">E-9000 (02/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Bilateral Extended Reporting Period Change Endorsement</formtitles>
+<formnums id="-1">E-C-4000TR (1-14)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Non-Employment Practices Discrimination Change Endorsement</formtitles>
+<formnums id="-1">E-C-A-4063TR (1-14)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Standard Setting and Certification Services Endorsement</formtitles>
+<formnums id="-1">E-C-A-4070 (10-09)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Unsolicited Communications Exclusion Endorsement</formtitles>
+<formnums id="-1">E-C-4020 (10-09)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+</forms_and_endts>
+<miscellaneous>
+<renewal_quickautuo id="-1"></renewal_quickautuo>
+<eligibleforadm id="-1">N</eligibleforadm>
+</miscellaneous>
+<rating_basis>
+<coverages id="-1">E&amp;amp;O</coverages>
+<coverages_desc id="-1">Association E&amp;amp;O</coverages_desc>
+<covglayer id="-1">Primary</covglayer>
+<covgtype id="31995925">Claims Made</covgtype>
+<claimexpense id="32336425">Within the Limits</claimexpense>
+<carriername id="26509507">Capitol Specialty Insurance Corporation</carriername>
+<an id="31924625">Surplus Lines</an>
+<ratingquotedate id="22120805">05/29/2018</ratingquotedate>
+<segmentnum id="32115525"></segmentnum>
+<firstdollar id="-1">N</firstdollar>
+<terrorismcovg id="-1">N</terrorismcovg>
+<tria_acceptorreject id="-1"></tria_acceptorreject>
+<terrorismpremprct id="-1"></terrorismpremprct>
+<ratingdesc id="-1">2018 Rating</ratingdesc>
+<standard_insuredactivities id="33307225"></standard_insuredactivities>
+</rating_basis>
+<rating_init_calcs>
+<ratingbasis id="31905125"></ratingbasis>
+<ratingbasies_adjusted id="34050325"></ratingbasies_adjusted>
+<ratingbasis_adjusted_desc id="34050425"></ratingbasis_adjusted_desc>
+<baserate id="-1"></baserate>
+<baseded id="34048825"></baseded>
+<riskfactor id="32135225"></riskfactor>
+<premiumafterriskfactor id="-1"></premiumafterriskfactor>
+<retrotype id="-1">Low</retrotype>
+<prioractsexcluded id="32039525">No</prioractsexcluded>
+<retrofactordefault id="34043725">No</retrofactordefault>
+<retrofactorused id="34043625">No</retrofactorused>
+<retrodate id="28164105">09/02/2016</retrodate>
+</rating_init_calcs>
+<rating_structure>
+<limiteachact id="34043925">1000000</limiteachact>
+<limitaggregate id="34044025">1000000</limitaggregate>
+<sublimit_covered id="32838025"></sublimit_covered>
+<sublimit_amts id="34086225">250000</sublimit_amts>
+<dedeachact id="34048925">5000</dedeachact>
+<dedaggregate id="-1"></dedaggregate>
+<cxratingmod_defaultfactor_3 id="34118925">1</cxratingmod_defaultfactor_3>
+<coveragemod_defaultfactor_1_3 id="34119025">.9</coveragemod_defaultfactor_1_3>
+<coveragemod_minfactor_1_3 id="34119225">.85</coveragemod_minfactor_1_3>
+<coveragemod_maxfactor_1_3 id="34119125">.9</coveragemod_maxfactor_1_3>
+</rating_structure>
+<coverage_mods>
+<additional_insureds_coverage id="32450225">TRUE</additional_insureds_coverage>
+<additional_insured_input_rf id="34053125">1</additional_insured_input_rf>
+<additional_insured_max_rf id="34053225">1.25</additional_insured_max_rf>
+<additional_insured_min_rf id="34053325">1</additional_insured_min_rf>
+<additional_insured_default_rf id="34053025"></additional_insured_default_rf>
+</coverage_mods>
+<coverage_mods_rating_structure>
+</coverage_mods_rating_structure>
+<hazard_mods>
+<cxratingmod_defaultfactor_1_17x_18 id="-1">1</cxratingmod_defaultfactor_1_17x_18>
+</hazard_mods>
+<Hazard_Mods_Claims>
+<claims_experience id="31987325">No Prior Claims</claims_experience>
+<claims_experience_default_rf id="31987425">1</claims_experience_default_rf>
+<claims_experience_input_rf id="31987525"></claims_experience_input_rf>
+<claims_experience_max_rf id="31987625"></claims_experience_max_rf>
+<claims_experience_min_rf id="31987725"></claims_experience_min_rf>
+</Hazard_Mods_Claims>
+</policy>
+<policy>
+<main>
+<policynumber id="-1">SGC07316-02</policynumber>
+<policynumber_prefix id="32807925">SGC07316</policynumber_prefix>
+<policynumber_suffix id="33661325">02</policynumber_suffix>
+<policyeffdate id="33660725">09/07/2018</policyeffdate>
+<policyexpdate id="33660825">09/07/2019</policyexpdate>
+<rnwlofpolexpdate id="33660825"></rnwlofpolexpdate>
+<policyexpdate id="33660825"></policyexpdate>
+<rnwlofpolicynum id="-1">SGC07316-01</rnwlofpolicynum>
+<rnwlofpolicyproduct_sn id="-1">Assoc</rnwlofpolicyproduct_sn>
+<renewal_quickauto id="34162725">2</renewal_quickauto>
+<renewal_form id="32807825">UWWB</renewal_form>
+<change_renewal_type id="34163025">FALSE</change_renewal_type>
+<renewal_type id="-1">FALSE</renewal_type>
+<is_policy_an_annual_term id="32681925">Yes</is_policy_an_annual_term>
+</main>
+<account>
+<appname id="29238814">Society of Surgical Oncology</appname>
+<appaddr1 id="29325214">9525 West Bryn Mawr, Suite 870</appaddr1>
+<appaddr2 id="210417"></appaddr2>
+<appcity id="29326314">Rosemont</appcity>
+<appstate id="210419">IL</appstate>
+<appregion id="-1">Midwest</appregion>
+<appcountry id="210423">USA</appcountry>
+<appzip id="29327414">60018</appzip>
+<appdivision id="-1">East North Central</appdivision>
+<appdba id="32976225"></appdba>
+<apppka id="32208725">Society of Surgical Oncology</apppka>
+<phone id="30589146">(847) 427-1400</phone>
+<website id="29236214">www.surgonc.org</website>
+<appnum id="-1">97185</appnum>
+<statetrannum id="-1"></statetrannum>
+<oniselection id="32976125"></oniselection>
+<clmhistevaluw id="34051725"></clmhistevaluw>
+</account>
+<producer>
+<brokernum id="-1">1153</brokernum>
+<brokercontactnum id="-1">7</brokercontactnum>
+<brokername id="-1">Donald Gaddis Company, Inc.</brokername>
+<brokercity id="-1">Chicago</brokercity>
+<brokerst id="-1">IL</brokerst>
+<brokercountry id="-1">USA</brokercountry>
+<brokertype id="-1">Wholesaler</brokertype>
+<brokerregion id="-1">Midwest</brokerregion>
+<brokerdivision id="-1">East North Central</brokerdivision>
+<brokergroup id="-1">DonGaddis</brokergroup>
+<uw_primary id="-1">Edward J Seidl/SGIS</uw_primary>
+<uw_secondary id="-1"></uw_secondary>
+<brokercontactname id="-1">Gayle Rutter</brokercontactname>
+<brokercontactemail id="-1">grutter@gaddiscompany.com</brokercontactemail>
+<brokerphone id="-1">(312) 853-0071</brokerphone>
+<capitolagencycode id="26590707">70144</capitolagencycode>
+<bkr_comm_details>
+<origbkrcommprct id="29428314">20</origbkrcommprct>
+<waiveflag id="33574625">N</waiveflag>
+<newbkrcommprct id="34069025">0</newbkrcommprct>
+<actbkrcommprct id="-1">20</actbkrcommprct>
+</bkr_comm_details>
+</producer>
+<basic_info>
+<product enumerated_id="20725" id="31916925">Association E&amp;O</product>
+<datesubmitted id="-1">08/29/2018</datesubmitted>
+<underwriter id="26590807">Audrey Oglesby</underwriter>
+<renewalunderwriter id="-1">Audrey Oglesby</renewalunderwriter>
+<product enumerated_id="20725" id="31916925">Association E&amp;O</product>
+<primaryclass id="-1">AS</primaryclass>
+<primaryclassdescription id="32231025">Association</primaryclassdescription>
+<secondaryclass id="-1">CT</secondaryclass>
+<secondaryclassdescription id="32231125">Certification / Accreditation Testing / Monitoring</secondaryclassdescription>
+<naicscode id="32338425">926150</naicscode>
+<nr_sgi id="31925325">Renewal</nr_sgi>
+<vertical id="31919625">Errors and Omissions</vertical>
+<nr_sgi id="31925325">Renewal</nr_sgi>
+<naicscode id="32338425">926150</naicscode>
+<servicesprovided id="34053925">Association Activities as defined in the Policy.</servicesprovided>
+</basic_info>
+<subn>
+<submissionnum id="-1">2</submissionnum>
+</subn>
+<addl_info>
+<bindereffdate id="-1"></bindereffdate>
+<binderexpdate id="-1"></binderexpdate>
+<extrptprdexpdate id="-1"></extrptprdexpdate>
+<canceleffdate id="-1"></canceleffdate>
+<cancelreason id="-1"></cancelreason>
+<cancelflat_rewrite id="-1">N</cancelflat_rewrite>
+<hasins_1sttimebuyer id="-1"></hasins_1sttimebuyer>
+<keeprnwlwithuw id="-1">N</keeprnwlwithuw>
+<hasclaims id="-1">N</hasclaims>
+</addl_info>
+<addl_calcs>
+<limitfactor id="-1">1</limitfactor>
+<deductiblefactor id="-1">1</deductiblefactor>
+</addl_calcs>
+<admin>
+<rnwl_qa_kickoutreason id="-1">Class Codes</rnwl_qa_kickoutreason>
+</admin>
+<claim_hist>
+<claimfree id="-1"></claimfree>
+<claimfree_credit id="31987525">0</claimfree_credit>
+<claimactsurcharge_factor id="-1">1</claimactsurcharge_factor>
+</claim_hist>
+<forms_and_endts>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">WHAT TO DO IF YOU HAVE A CLAIM OR POTENTIAL CLAIM OR INCIDENT</formtitles>
+<formnums id="-1">N-200 (09/16)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Association E&amp;O Policy</formtitles>
+<formnums id="-1">P-C-A-CW2002TR (1-14)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Illinois - Service of Suit</formtitles>
+<formnums id="-1">E-9000-IL (02/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Bilateral Extended Reporting Period Change Endorsement</formtitles>
+<formnums id="-1">E-C-4000TR (1-14)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Non-Employment Practices Discrimination Change Endorsement</formtitles>
+<formnums id="-1">E-C-A-4063TR (1-14)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Standard Setting and Certification Services Endorsement</formtitles>
+<formnums id="-1">E-C-A-4070 (10-09)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Supplementary Payments Extension</formtitles>
+<formnums id="-1">E-AM-4126 (01/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Unsolicited Communications Exclusion Endorsement</formtitles>
+<formnums id="-1">E-C-4020 (10-09)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+</forms_and_endts>
+<miscellaneous>
+<renewal_quickautuo id="-1"></renewal_quickautuo>
+<eligibleforadm id="-1">N</eligibleforadm>
+</miscellaneous>
+<rating_basis>
+<coverages id="-1">E&amp;amp;O</coverages>
+<coverages_desc id="-1">Association E&amp;amp;O</coverages_desc>
+<covglayer id="-1">Primary</covglayer>
+<covgtype id="31995925">Claims Made</covgtype>
+<claimexpense id="32336425">Within the Limits</claimexpense>
+<carriername id="26509507">Capitol Specialty Insurance Corporation</carriername>
+<an id="31924625">Surplus Lines</an>
+<ratingquotedate id="22120805">08/20/2018</ratingquotedate>
+<segmentnum id="32115525"></segmentnum>
+<firstdollar id="-1">N</firstdollar>
+<terrorismcovg id="-1">N</terrorismcovg>
+<tria_acceptorreject id="-1"></tria_acceptorreject>
+<terrorismpremprct id="-1"></terrorismpremprct>
+<ratingdesc id="-1">2018 Rating - prem relief</ratingdesc>
+<standard_insuredactivities id="33307225"></standard_insuredactivities>
+</rating_basis>
+<rating_init_calcs>
+<ratingbasis id="31905125"></ratingbasis>
+<ratingbasies_adjusted id="34050325"></ratingbasies_adjusted>
+<ratingbasis_adjusted_desc id="34050425"></ratingbasis_adjusted_desc>
+<baserate id="-1"></baserate>
+<baseded id="34048825"></baseded>
+<riskfactor id="32135225"></riskfactor>
+<premiumafterriskfactor id="-1"></premiumafterriskfactor>
+<retrotype id="-1">Low</retrotype>
+<prioractsexcluded id="32039525">No</prioractsexcluded>
+<retrofactordefault id="34043725">No</retrofactordefault>
+<retrofactorused id="34043625">No</retrofactorused>
+<retrodate id="28164105">09/07/2017</retrodate>
+</rating_init_calcs>
+<rating_structure>
+<limiteachact id="34043925">1000000</limiteachact>
+<limitaggregate id="34044025">1000000</limitaggregate>
+<sublimit_covered id="32838025"></sublimit_covered>
+<sublimit_amts id="34086225">250000</sublimit_amts>
+<dedeachact id="34048925">10000</dedeachact>
+<dedaggregate id="-1"></dedaggregate>
+<cxratingmod_defaultfactor_3 id="34118925">1</cxratingmod_defaultfactor_3>
+<coveragemod_defaultfactor_1_3 id="34119025">.9</coveragemod_defaultfactor_1_3>
+<coveragemod_minfactor_1_3 id="34119225">.85</coveragemod_minfactor_1_3>
+<coveragemod_maxfactor_1_3 id="34119125">.9</coveragemod_maxfactor_1_3>
+</rating_structure>
+<coverage_mods>
+<additional_insureds_coverage id="32450225">TRUE</additional_insureds_coverage>
+<additional_insured_input_rf id="34053125">1</additional_insured_input_rf>
+<additional_insured_max_rf id="34053225">1.25</additional_insured_max_rf>
+<additional_insured_min_rf id="34053325">1</additional_insured_min_rf>
+<additional_insured_default_rf id="34053025"></additional_insured_default_rf>
+</coverage_mods>
+<coverage_mods_rating_structure>
+</coverage_mods_rating_structure>
+<hazard_mods>
+<cxratingmod_defaultfactor_1_17x_18 id="-1">1</cxratingmod_defaultfactor_1_17x_18>
+</hazard_mods>
+<Hazard_Mods_Claims>
+<claims_experience id="31987325">No Prior Claims</claims_experience>
+<claims_experience_default_rf id="31987425">1</claims_experience_default_rf>
+<claims_experience_input_rf id="31987525"></claims_experience_input_rf>
+<claims_experience_max_rf id="31987625"></claims_experience_max_rf>
+<claims_experience_min_rf id="31987725"></claims_experience_min_rf>
+</Hazard_Mods_Claims>
+</policy>
+<policy>
+<main>
+<policynumber id="-1">SGC07310-02</policynumber>
+<policynumber_prefix id="32807925">SGC07310</policynumber_prefix>
+<policynumber_suffix id="33661325">02</policynumber_suffix>
+<policyeffdate id="33660725">09/09/2018</policyeffdate>
+<policyexpdate id="33660825">09/09/2019</policyexpdate>
+<rnwlofpolexpdate id="33660825"></rnwlofpolexpdate>
+<policyexpdate id="33660825"></policyexpdate>
+<rnwlofpolicynum id="-1">SGC07310-01</rnwlofpolicynum>
+<rnwlofpolicyproduct_sn id="-1">Assoc</rnwlofpolicyproduct_sn>
+<renewal_quickauto id="34162725">2</renewal_quickauto>
+<renewal_form id="32807825">UWWB</renewal_form>
+<change_renewal_type id="34163025">FALSE</change_renewal_type>
+<renewal_type id="-1">FALSE</renewal_type>
+<is_policy_an_annual_term id="32681925">Yes</is_policy_an_annual_term>
+</main>
+<account>
+<appname id="29238814">American Recovery Association, Inc.</appname>
+<appaddr1 id="29325214">1400 Corporate Drive, Suite 175</appaddr1>
+<appaddr2 id="210417"></appaddr2>
+<appcity id="29326314">Irving</appcity>
+<appstate id="210419">TX</appstate>
+<appregion id="-1">South</appregion>
+<appcountry id="210423">USA</appcountry>
+<appzip id="29327414">75038</appzip>
+<appdivision id="-1">West South Central</appdivision>
+<appdba id="32976225"></appdba>
+<apppka id="32208725">American Recovery Association, Inc.</apppka>
+<phone id="30589146"></phone>
+<website id="29236214">www.repo.org</website>
+<appnum id="-1">97825</appnum>
+<statetrannum id="-1"></statetrannum>
+<oniselection id="32976125"></oniselection>
+<clmhistevaluw id="34051725">No Claims</clmhistevaluw>
+</account>
+<producer>
+<brokernum id="-1">1992</brokernum>
+<brokercontactnum id="-1">2</brokercontactnum>
+<brokername id="-1">Worldwide Facilities, Inc.</brokername>
+<brokercity id="-1">Farmingham</brokercity>
+<brokerst id="-1">MA</brokerst>
+<brokercountry id="-1">USA</brokercountry>
+<brokertype id="-1">Wholesaler</brokertype>
+<brokerregion id="-1">Northeast</brokerregion>
+<brokerdivision id="-1">New England</brokerdivision>
+<brokergroup id="-1">WorldFac</brokergroup>
+<uw_primary id="-1"></uw_primary>
+<uw_secondary id="-1"></uw_secondary>
+<brokercontactname id="-1">Andrew J. Salek</brokercontactname>
+<brokercontactemail id="-1">asalek@wwfi.com</brokercontactemail>
+<brokerphone id="-1"></brokerphone>
+<capitolagencycode id="26590707">71194</capitolagencycode>
+<bkr_comm_details>
+<origbkrcommprct id="29428314">20</origbkrcommprct>
+<waiveflag id="33574625">N</waiveflag>
+<newbkrcommprct id="34069025">0</newbkrcommprct>
+<actbkrcommprct id="-1">20</actbkrcommprct>
+</bkr_comm_details>
+</producer>
+<basic_info>
+<product enumerated_id="20725" id="31916925">Association E&amp;O</product>
+<datesubmitted id="-1">08/28/2018</datesubmitted>
+<underwriter id="26590807">Audrey Oglesby</underwriter>
+<renewalunderwriter id="-1">Audrey Oglesby</renewalunderwriter>
+<product enumerated_id="20725" id="31916925">Association E&amp;O</product>
+<primaryclass id="-1">AS</primaryclass>
+<primaryclassdescription id="32231025">Association</primaryclassdescription>
+<secondaryclass id="-1">CT</secondaryclass>
+<secondaryclassdescription id="32231125">Certification / Accreditation Testing / Monitoring</secondaryclassdescription>
+<naicscode id="32338425">926150</naicscode>
+<nr_sgi id="31925325">Renewal</nr_sgi>
+<vertical id="31919625">Errors and Omissions</vertical>
+<nr_sgi id="31925325">Renewal</nr_sgi>
+<naicscode id="32338425">926150</naicscode>
+<servicesprovided id="34053925">Association activities as defined in the policy.</servicesprovided>
+</basic_info>
+<subn>
+<submissionnum id="-1">2</submissionnum>
+</subn>
+<addl_info>
+<bindereffdate id="-1">09/09/2018</bindereffdate>
+<binderexpdate id="-1">10/09/2018</binderexpdate>
+<extrptprdexpdate id="-1"></extrptprdexpdate>
+<canceleffdate id="-1"></canceleffdate>
+<cancelreason id="-1"></cancelreason>
+<cancelflat_rewrite id="-1"></cancelflat_rewrite>
+<hasins_1sttimebuyer id="-1"></hasins_1sttimebuyer>
+<keeprnwlwithuw id="-1">N</keeprnwlwithuw>
+<hasclaims id="-1">N</hasclaims>
+</addl_info>
+<addl_calcs>
+<limitfactor id="-1">1</limitfactor>
+<deductiblefactor id="-1">1</deductiblefactor>
+</addl_calcs>
+<admin>
+<rnwl_qa_kickoutreason id="-1">Class Codes</rnwl_qa_kickoutreason>
+</admin>
+<claim_hist>
+<claimfree id="-1"></claimfree>
+<claimfree_credit id="31987525">0</claimfree_credit>
+<claimactsurcharge_factor id="-1">1</claimactsurcharge_factor>
+</claim_hist>
+<forms_and_endts>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">TEXAS - IMPORTANT NOTICE</formtitles>
+<formnums id="-1">N-106TX (06/16)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">WHAT TO DO IF YOU HAVE A CLAIM OR POTENTIAL CLAIM OR INCIDENT</formtitles>
+<formnums id="-1">N-200 (09/16)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Association E&amp;O Policy</formtitles>
+<formnums id="-1">P-C-A-CW2002TR (1-14)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Service of Suit</formtitles>
+<formnums id="-1">E-9000 (02/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Bilateral Extended Reporting Period Change Endorsement</formtitles>
+<formnums id="-1">E-C-4000TR (1-14)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Definition of Claim Change Endorsement - Disciplinary Proceeding</formtitles>
+<formnums id="-1">E-A-4320 (12/16)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Settlement - Right to Settle Change Endorsement</formtitles>
+<formnums id="-1">E-4092TR (04/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Standard Setting and Certification Services Endorsement</formtitles>
+<formnums id="-1">E-C-A-4070 (10-09)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Supplementary Payments Extension</formtitles>
+<formnums id="-1">E-AM-4126 (01/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Unsolicited Communications Exclusion Endorsement</formtitles>
+<formnums id="-1">E-C-4020 (10-09)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+</forms_and_endts>
+<miscellaneous>
+<renewal_quickautuo id="-1"></renewal_quickautuo>
+<eligibleforadm id="-1">N</eligibleforadm>
+</miscellaneous>
+<rating_basis>
+<coverages id="-1">E&amp;amp;O</coverages>
+<coverages_desc id="-1">Association E&amp;amp;O</coverages_desc>
+<covglayer id="-1">Primary</covglayer>
+<covgtype id="31995925">Claims Made</covgtype>
+<claimexpense id="32336425">Within the Limits</claimexpense>
+<carriername id="26509507">Capitol Specialty Insurance Corporation</carriername>
+<an id="31924625">Surplus Lines</an>
+<ratingquotedate id="22120805">05/30/2018</ratingquotedate>
+<segmentnum id="32115525"></segmentnum>
+<firstdollar id="-1">N</firstdollar>
+<terrorismcovg id="-1">N</terrorismcovg>
+<tria_acceptorreject id="-1"></tria_acceptorreject>
+<terrorismpremprct id="-1"></terrorismpremprct>
+<ratingdesc id="-1">2018 Rating</ratingdesc>
+<standard_insuredactivities id="33307225"></standard_insuredactivities>
+</rating_basis>
+<rating_init_calcs>
+<ratingbasis id="31905125"></ratingbasis>
+<ratingbasies_adjusted id="34050325"></ratingbasies_adjusted>
+<ratingbasis_adjusted_desc id="34050425"></ratingbasis_adjusted_desc>
+<baserate id="-1"></baserate>
+<baseded id="34048825"></baseded>
+<riskfactor id="32135225"></riskfactor>
+<premiumafterriskfactor id="-1"></premiumafterriskfactor>
+<retrotype id="-1">Low</retrotype>
+<prioractsexcluded id="32039525">No</prioractsexcluded>
+<retrofactordefault id="34043725">No</retrofactordefault>
+<retrofactorused id="34043625">No</retrofactorused>
+<retrodate id="28164105">02/24/2014</retrodate>
+</rating_init_calcs>
+<rating_structure>
+<limiteachact id="34043925">1000000</limiteachact>
+<limitaggregate id="34044025">1000000</limitaggregate>
+<sublimit_covered id="32838025"></sublimit_covered>
+<sublimit_amts id="34086225">250000</sublimit_amts>
+<dedeachact id="34048925">10000</dedeachact>
+<dedaggregate id="-1"></dedaggregate>
+<cxratingmod_defaultfactor_3 id="34118925">1</cxratingmod_defaultfactor_3>
+<coveragemod_defaultfactor_1_3 id="34119025">.9</coveragemod_defaultfactor_1_3>
+<coveragemod_minfactor_1_3 id="34119225">.85</coveragemod_minfactor_1_3>
+<coveragemod_maxfactor_1_3 id="34119125">.9</coveragemod_maxfactor_1_3>
+</rating_structure>
+<coverage_mods>
+<additional_insureds_coverage id="32450225">TRUE</additional_insureds_coverage>
+<additional_insured_input_rf id="34053125">1</additional_insured_input_rf>
+<additional_insured_max_rf id="34053225">1.25</additional_insured_max_rf>
+<additional_insured_min_rf id="34053325">1</additional_insured_min_rf>
+<additional_insured_default_rf id="34053025"></additional_insured_default_rf>
+</coverage_mods>
+<coverage_mods_rating_structure>
+</coverage_mods_rating_structure>
+<hazard_mods>
+<cxratingmod_defaultfactor_1_17x_18 id="-1">1</cxratingmod_defaultfactor_1_17x_18>
+</hazard_mods>
+<Hazard_Mods_Claims>
+<claims_experience id="31987325">No Prior Claims</claims_experience>
+<claims_experience_default_rf id="31987425">1</claims_experience_default_rf>
+<claims_experience_input_rf id="31987525"></claims_experience_input_rf>
+<claims_experience_max_rf id="31987625"></claims_experience_max_rf>
+<claims_experience_min_rf id="31987725"></claims_experience_min_rf>
+</Hazard_Mods_Claims>
+</policy>
+<policy>
+<main>
+<policynumber id="-1">SGC0005677-04</policynumber>
+<policynumber_prefix id="32807925">SGC0005677</policynumber_prefix>
+<policynumber_suffix id="33661325">04</policynumber_suffix>
+<policyeffdate id="33660725">09/09/2018</policyeffdate>
+<policyexpdate id="33660825">09/09/2019</policyexpdate>
+<rnwlofpolexpdate id="33660825"></rnwlofpolexpdate>
+<policyexpdate id="33660825"></policyexpdate>
+<rnwlofpolicynum id="-1">SGC05677-03</rnwlofpolicynum>
+<rnwlofpolicyproduct_sn id="-1">Assoc</rnwlofpolicyproduct_sn>
+<renewal_quickauto id="34162725">2</renewal_quickauto>
+<renewal_form id="32807825">UWWB</renewal_form>
+<change_renewal_type id="34163025">FALSE</change_renewal_type>
+<renewal_type id="-1">FALSE</renewal_type>
+<is_policy_an_annual_term id="32681925">Yes</is_policy_an_annual_term>
+</main>
+<account>
+<appname id="29238814">ASCCP</appname>
+<appaddr1 id="29325214">1530 Tilco Drive, Suite C</appaddr1>
+<appaddr2 id="210417"></appaddr2>
+<appcity id="29326314">Frederick</appcity>
+<appstate id="210419">MD</appstate>
+<appregion id="-1">South</appregion>
+<appcountry id="210423">USA</appcountry>
+<appzip id="29327414">21704</appzip>
+<appdivision id="-1">South Atlantic</appdivision>
+<appdba id="32976225"></appdba>
+<apppka id="32208725">ASCCP</apppka>
+<phone id="30589146">(301) 733-3640</phone>
+<website id="29236214">www.asccp.org</website>
+<appnum id="-1">38352</appnum>
+<statetrannum id="-1"></statetrannum>
+<oniselection id="32976125"></oniselection>
+<clmhistevaluw id="34051725">No claims.</clmhistevaluw>
+</account>
+<producer>
+<brokernum id="-1">1060</brokernum>
+<brokercontactnum id="-1">25</brokercontactnum>
+<brokername id="-1">Atlantic Specialty Lines, Inc.</brokername>
+<brokercity id="-1">Richmond</brokercity>
+<brokerst id="-1">VA</brokerst>
+<brokercountry id="-1">USA</brokercountry>
+<brokertype id="-1">Wholesaler</brokertype>
+<brokerregion id="-1">South</brokerregion>
+<brokerdivision id="-1">South Atlantic</brokerdivision>
+<brokergroup id="-1">AtlSpec</brokergroup>
+<uw_primary id="-1"></uw_primary>
+<uw_secondary id="-1"></uw_secondary>
+<brokercontactname id="-1">Walker Llewellyn</brokercontactname>
+<brokercontactemail id="-1">walkerl@aslinc.com</brokercontactemail>
+<brokerphone id="-1">(800) 368-2095</brokerphone>
+<capitolagencycode id="26590707">70057</capitolagencycode>
+<bkr_comm_details>
+<origbkrcommprct id="29428314">20</origbkrcommprct>
+<waiveflag id="33574625">N</waiveflag>
+<newbkrcommprct id="34069025">0</newbkrcommprct>
+<actbkrcommprct id="-1">20</actbkrcommprct>
+</bkr_comm_details>
+</producer>
+<basic_info>
+<product enumerated_id="20725" id="31916925">Association E&amp;O</product>
+<datesubmitted id="-1">09/14/2018</datesubmitted>
+<underwriter id="26590807">Audrey Oglesby</underwriter>
+<renewalunderwriter id="-1">Audrey Oglesby</renewalunderwriter>
+<product enumerated_id="20725" id="31916925">Association E&amp;O</product>
+<primaryclass id="-1">AS</primaryclass>
+<primaryclassdescription id="32231025">Association</primaryclassdescription>
+<secondaryclass id="-1">CT</secondaryclass>
+<secondaryclassdescription id="32231125">Certification / Accreditation Testing / Monitoring</secondaryclassdescription>
+<naicscode id="32338425">926150</naicscode>
+<nr_sgi id="31925325">Renewal</nr_sgi>
+<vertical id="31919625">Errors and Omissions</vertical>
+<nr_sgi id="31925325">Renewal</nr_sgi>
+<naicscode id="32338425">926150</naicscode>
+<servicesprovided id="34053925">Association Activities as defined in the Policy.</servicesprovided>
+</basic_info>
+<subn>
+<submissionnum id="-1">5</submissionnum>
+</subn>
+<addl_info>
+<bindereffdate id="-1">09/09/2018</bindereffdate>
+<binderexpdate id="-1">10/09/2018</binderexpdate>
+<extrptprdexpdate id="-1"></extrptprdexpdate>
+<canceleffdate id="-1"></canceleffdate>
+<cancelreason id="-1"></cancelreason>
+<cancelflat_rewrite id="-1">N</cancelflat_rewrite>
+<hasins_1sttimebuyer id="-1"></hasins_1sttimebuyer>
+<keeprnwlwithuw id="-1">N</keeprnwlwithuw>
+<hasclaims id="-1">N</hasclaims>
+</addl_info>
+<addl_calcs>
+<limitfactor id="-1">1</limitfactor>
+<deductiblefactor id="-1">.75</deductiblefactor>
+</addl_calcs>
+<admin>
+<rnwl_qa_kickoutreason id="-1">Class Codes</rnwl_qa_kickoutreason>
+</admin>
+<claim_hist>
+<claimfree id="-1"></claimfree>
+<claimfree_credit id="31987525">0</claimfree_credit>
+<claimactsurcharge_factor id="-1">1</claimactsurcharge_factor>
+</claim_hist>
+<forms_and_endts>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">WHAT TO DO IF YOU HAVE A CLAIM OR POTENTIAL CLAIM OR INCIDENT</formtitles>
+<formnums id="-1">N-200 (09/16)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Association E&amp;O Policy</formtitles>
+<formnums id="-1">P-C-A-CW2002TR (1-14)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Service of Suit</formtitles>
+<formnums id="-1">E-9000 (02/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Bilateral Extended Reporting Period Change Endorsement</formtitles>
+<formnums id="-1">E-C-4000TR (1-14)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Medical Care Exclusion Change Endorsement</formtitles>
+<formnums id="-1">E-C-4074 (10-09)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Non-Employment Practices Discrimination Change Endorsement</formtitles>
+<formnums id="-1">E-C-A-4063TR (1-14)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Standard Setting and Certification Services Endorsement</formtitles>
+<formnums id="-1">E-C-A-4070 (10-09)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Unsolicited Communications Exclusion Endorsement</formtitles>
+<formnums id="-1">E-C-4020 (10-09)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">MARYLAND - DISCLOSURE REGARDING SURPLUS LINES INSURANCE</formtitles>
+<formnums id="-1">N-125MD (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+</forms_and_endts>
+<miscellaneous>
+<renewal_quickautuo id="-1"></renewal_quickautuo>
+<eligibleforadm id="-1">N</eligibleforadm>
+</miscellaneous>
+<rating_basis>
+<coverages id="-1">E&amp;amp;O</coverages>
+<coverages_desc id="-1">Association E&amp;amp;O</coverages_desc>
+<covglayer id="-1">Primary</covglayer>
+<covgtype id="31995925">Claims Made</covgtype>
+<claimexpense id="32336425">Within the Limits</claimexpense>
+<carriername id="26509507">Capitol Specialty Insurance Corporation</carriername>
+<an id="31924625">Surplus Lines</an>
+<ratingquotedate id="22120805">09/14/2018</ratingquotedate>
+<segmentnum id="32115525"></segmentnum>
+<firstdollar id="-1">N</firstdollar>
+<terrorismcovg id="-1">N</terrorismcovg>
+<tria_acceptorreject id="-1"></tria_acceptorreject>
+<terrorismpremprct id="-1"></terrorismpremprct>
+<ratingdesc id="-1">2018 Rating - 3M</ratingdesc>
+<standard_insuredactivities id="33307225"></standard_insuredactivities>
+</rating_basis>
+<rating_init_calcs>
+<ratingbasis id="31905125"></ratingbasis>
+<ratingbasies_adjusted id="34050325"></ratingbasies_adjusted>
+<ratingbasis_adjusted_desc id="34050425"></ratingbasis_adjusted_desc>
+<baserate id="-1"></baserate>
+<baseded id="34048825"></baseded>
+<riskfactor id="32135225"></riskfactor>
+<premiumafterriskfactor id="-1"></premiumafterriskfactor>
+<retrotype id="-1">Low</retrotype>
+<prioractsexcluded id="32039525">No</prioractsexcluded>
+<retrofactordefault id="34043725">No</retrofactordefault>
+<retrofactorused id="34043625">No</retrofactorused>
+<retrodate id="28164105">09/09/2004</retrodate>
+</rating_init_calcs>
+<rating_structure>
+<limiteachact id="34043925">1000000</limiteachact>
+<limitaggregate id="34044025">1000000</limitaggregate>
+<sublimit_covered id="32838025"></sublimit_covered>
+<sublimit_amts id="34086225">250000</sublimit_amts>
+<dedeachact id="34048925">25000</dedeachact>
+<dedaggregate id="-1"></dedaggregate>
+<cxratingmod_defaultfactor_3 id="34118925">1</cxratingmod_defaultfactor_3>
+<coveragemod_defaultfactor_1_3 id="34119025">.9</coveragemod_defaultfactor_1_3>
+<coveragemod_minfactor_1_3 id="34119225">.85</coveragemod_minfactor_1_3>
+<coveragemod_maxfactor_1_3 id="34119125">.9</coveragemod_maxfactor_1_3>
+</rating_structure>
+<coverage_mods>
+<additional_insureds_coverage id="32450225">TRUE</additional_insureds_coverage>
+<additional_insured_input_rf id="34053125">1</additional_insured_input_rf>
+<additional_insured_max_rf id="34053225">1.25</additional_insured_max_rf>
+<additional_insured_min_rf id="34053325">1</additional_insured_min_rf>
+<additional_insured_default_rf id="34053025"></additional_insured_default_rf>
+</coverage_mods>
+<coverage_mods_rating_structure>
+</coverage_mods_rating_structure>
+<hazard_mods>
+<cxratingmod_defaultfactor_1_17x_18 id="-1">1</cxratingmod_defaultfactor_1_17x_18>
+</hazard_mods>
+<Hazard_Mods_Claims>
+<claims_experience id="31987325">No Prior Claims</claims_experience>
+<claims_experience_default_rf id="31987425">1</claims_experience_default_rf>
+<claims_experience_input_rf id="31987525"></claims_experience_input_rf>
+<claims_experience_max_rf id="31987625"></claims_experience_max_rf>
+<claims_experience_min_rf id="31987725"></claims_experience_min_rf>
+</Hazard_Mods_Claims>
+</policy>
+<policy>
+<main>
+<policynumber id="-1">SGC01558-09</policynumber>
+<policynumber_prefix id="32807925">SGC01558</policynumber_prefix>
+<policynumber_suffix id="33661325">09</policynumber_suffix>
+<policyeffdate id="33660725">09/01/2018</policyeffdate>
+<policyexpdate id="33660825">09/01/2019</policyexpdate>
+<rnwlofpolexpdate id="33660825"></rnwlofpolexpdate>
+<policyexpdate id="33660825"></policyexpdate>
+<rnwlofpolicynum id="-1">SGC01558-08</rnwlofpolicynum>
+<rnwlofpolicyproduct_sn id="-1">TMC</rnwlofpolicyproduct_sn>
+<renewal_quickauto id="-1">N</renewal_quickauto>
+<renewal_form id="32807825">UWWB</renewal_form>
+<change_renewal_type id="-1">FALSE</change_renewal_type>
+<renewal_type id="-1">FALSE</renewal_type>
+<is_policy_an_annual_term id="32681925">Yes</is_policy_an_annual_term>
+</main>
+<account>
+<appname id="29238814">GreenDart, Inc.</appname>
+<appaddr1 id="29325214">302 West 5th Street, Suite 309</appaddr1>
+<appaddr2 id="210417"></appaddr2>
+<appcity id="29326314">San Pedro</appcity>
+<appstate id="210419">CA</appstate>
+<appregion id="-1">West</appregion>
+<appcountry id="210423">USA</appcountry>
+<appzip id="29327414">90731-2749</appzip>
+<appdivision id="-1">Pacific</appdivision>
+<appdba id="32976225"></appdba>
+<apppka id="32208725">GreenDart, Inc.</apppka>
+<phone id="30589146">(310) 242-0032</phone>
+<website id="29236214">www.greendart.aero</website>
+<appnum id="-1">28341</appnum>
+<statetrannum id="-1"></statetrannum>
+<oniselection id="32976125"></oniselection>
+<clmhistevaluw id="34051725">2012 - still no claims
+2014:  claim free
+2016: Continue to be claim free
+2017: This will be our 8th year - no claims.</clmhistevaluw>
+</account>
+<producer>
+<brokernum id="-1">1059</brokernum>
+<brokercontactnum id="-1">6</brokercontactnum>
+<brokername id="-1">Monarch E&amp;amp;S Insurance Services, a division of SPG Insurance Solutions</brokername>
+<brokercity id="-1">Burbank</brokercity>
+<brokerst id="-1">CA</brokerst>
+<brokercountry id="-1">USA</brokercountry>
+<brokertype id="-1">Wholesaler</brokertype>
+<brokerregion id="-1">West</brokerregion>
+<brokerdivision id="-1">Pacific</brokerdivision>
+<brokergroup id="-1">Monarch</brokergroup>
+<uw_primary id="-1">Alice Ergovich/SGIS</uw_primary>
+<uw_secondary id="-1"></uw_secondary>
+<brokercontactname id="-1">Michelle Twitchell</brokercontactname>
+<brokercontactemail id="-1">Michellet@Monarchexcess.com</brokercontactemail>
+<brokerphone id="-1">(805) 577-6800</brokerphone>
+<capitolagencycode id="26590707">70056</capitolagencycode>
+<bkr_comm_details>
+<origbkrcommprct id="29428314">20</origbkrcommprct>
+<waiveflag id="33574625">N</waiveflag>
+<newbkrcommprct id="34069025">0</newbkrcommprct>
+<actbkrcommprct id="-1">20</actbkrcommprct>
+</bkr_comm_details>
+</producer>
+<basic_info>
+<product enumerated_id="20525" id="31916925">Technology / Media / Cybera</product>
+<datesubmitted id="-1">08/24/2018</datesubmitted>
+<underwriter id="26590807">Audrey Oglesby</underwriter>
+<renewalunderwriter id="-1">Alice Ergovich</renewalunderwriter>
+<product enumerated_id="20525" id="31916925">Technology / Media / Cybera</product>
+<primaryclass id="-1">CM</primaryclass>
+<primaryclassdescription id="32231025">Computer</primaryclassdescription>
+<secondaryclass id="-1">RD</secondaryclass>
+<secondaryclassdescription id="32231125">Software Research / Design / Testing</secondaryclassdescription>
+<naicscode id="32338425">541512</naicscode>
+<nr_sgi id="31925325">Renewal</nr_sgi>
+<vertical id="31919625">Technology</vertical>
+<nr_sgi id="31925325">Renewal</nr_sgi>
+<naicscode id="32338425">541512</naicscode>
+<servicesprovided id="34051225">Technology and asset /  project acquisition consulting; project validation and verification services.</servicesprovided>
+</basic_info>
+<subn>
+<submissionnum id="-1">10</submissionnum>
+</subn>
+<addl_info>
+<bindereffdate id="-1">09/01/2018</bindereffdate>
+<binderexpdate id="-1">10/01/2018</binderexpdate>
+<extrptprdexpdate id="-1"></extrptprdexpdate>
+<canceleffdate id="-1"></canceleffdate>
+<cancelreason id="-1"></cancelreason>
+<cancelflat_rewrite id="-1">N</cancelflat_rewrite>
+<hasins_1sttimebuyer id="-1">F</hasins_1sttimebuyer>
+<keeprnwlwithuw id="-1">N</keeprnwlwithuw>
+<hasclaims id="-1">N</hasclaims>
+</addl_info>
+<addl_calcs>
+<limitfactor id="-1">0</limitfactor>
+<deductiblefactor id="-1"></deductiblefactor>
+</addl_calcs>
+<admin>
+<rnwl_qa_kickoutreason id="-1">Product</rnwl_qa_kickoutreason>
+</admin>
+<claim_hist>
+<claimfree id="-1"></claimfree>
+<claimfree_credit id="31987525">0</claimfree_credit>
+<claimactsurcharge_factor id="-1">1</claimactsurcharge_factor>
+</claim_hist>
+<forms_and_endts>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">WHAT TO DO IF YOU HAVE A CLAIM OR POTENTIAL CLAIM OR INCIDENT</formtitles>
+<formnums id="-1">N-201 (09/16)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">CapSpecialty Technology / Media / Cyber Policy</formtitles>
+<formnums id="-1">P-TMC-CW2010 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">California - Service of Suit</formtitles>
+<formnums id="-1">E-9000-CA (02/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Business Interruption Loss and Extra Expenses Coverage Endorsement</formtitles>
+<formnums id="-1">E-TMC-4146 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Cyber Crime Coverage Endorsement</formtitles>
+<formnums id="-1">E-TMC-4222 (01/16)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Definition of Content Change Endorsement</formtitles>
+<formnums id="-1">E-TMC-4155 (09/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Financial / Healthcare / Employee Benefit Plan Exclusion Endorsement - Employee Privacy Incident</formtitles>
+<formnums id="-1">E-TMC-4217 (11/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Unencrypted Laptops / Portable Devices Exclusion Endorsement</formtitles>
+<formnums id="-1">E-TC-4133 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">NOTICE</formtitles>
+<formnums id="-1">D-2</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Cap On Losses from Certified Acts of Terrorism</formtitles>
+<formnums id="-1">E-PL-7012 (04/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Conditional Exclusion of Terrorism</formtitles>
+<formnums id="-1">E-PL-7013 (04/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Disclosure Pursuant to Terrorism Risk Insurance Act</formtitles>
+<formnums id="-1">E-PL-7014 (04/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+</forms_and_endts>
+<miscellaneous>
+<renewal_quickautuo id="-1"></renewal_quickautuo>
+<eligibleforadm id="-1">N</eligibleforadm>
+</miscellaneous>
+<rating_basis>
+<coverages id="-1">E&amp;amp;O</coverages>
+<coverages_desc id="-1">Technology and Internet</coverages_desc>
+<covglayer id="-1">Primary</covglayer>
+<covgtype id="31995925">Claims Made &amp; Reported</covgtype>
+<claimexpense id="32128825">Within the Limits</claimexpense>
+<carriername id="26509507">Capitol Specialty Insurance Corporation</carriername>
+<an id="31924625">Surplus Lines</an>
+<ratingquotedate id="22120805">05/29/2018</ratingquotedate>
+<segmentnum id="32115525"></segmentnum>
+<firstdollar id="-1">N</firstdollar>
+<terrorismcovg id="31918825">Y</terrorismcovg>
+<tria_acceptorreject id="-1">A</tria_acceptorreject>
+<terrorismpremprct id="33697125"></terrorismpremprct>
+<ratingdesc id="-1">2018 Rating</ratingdesc>
+<standard_insuredactivities id="33307225"></standard_insuredactivities>
+</rating_basis>
+<rating_init_calcs>
+<ratingbasis id="31905125"></ratingbasis>
+<ratingbasies_adjusted id="34050325"></ratingbasies_adjusted>
+<ratingbasis_adjusted_desc id="34050425"></ratingbasis_adjusted_desc>
+<baserate id="-1"></baserate>
+<baseded id="34048825"></baseded>
+<riskfactor id="32135225"></riskfactor>
+<premiumafterriskfactor id="-1"></premiumafterriskfactor>
+<retrotype id="-1">NA</retrotype>
+<prioractsexcluded id="32039525">No</prioractsexcluded>
+<retrofactordefault id="34043725">No</retrofactordefault>
+<retrofactorused id="34043625">No</retrofactorused>
+<retrodate id="28164105">09/01/2010</retrodate>
+</rating_init_calcs>
+<rating_structure>
+<limiteachact id="32118525">1000000</limiteachact>
+<limitaggregate id="32197425">1000000</limitaggregate>
+<sublimit_covered id="-1"></sublimit_covered>
+<sublimit_amts id="-1">0</sublimit_amts>
+<dedeachact id="32118625">5000</dedeachact>
+<dedaggregate id="33290725"></dedaggregate>
+<cxratingmod_defaultfactor_3 id="-1"></cxratingmod_defaultfactor_3>
+<coveragemod_defaultfactor_1_3 id="-1"></coveragemod_defaultfactor_1_3>
+<coveragemod_minfactor_1_3 id="-1"></coveragemod_minfactor_1_3>
+<coveragemod_maxfactor_1_3 id="-1"></coveragemod_maxfactor_1_3>
+</rating_structure>
+<coverage_mods>
+<encrypted_laptop_and_portable_devices_coverage_indicator id="34048325">Exclusion</encrypted_laptop_and_portable_devices_coverage_indicator>
+<encrypted_laptop_and_portable_devices_coverage id="32216825">TRUE</encrypted_laptop_and_portable_devices_coverage>
+<bodily_injury_and_property_damage_coverage_sublimit id="32124125">TRUE</bodily_injury_and_property_damage_coverage_sublimit>
+<financial_healthcare_employee_benefit_exclusion_type id="34068725">Employee Privacy</financial_healthcare_employee_benefit_exclusion_type>
+<financial_healthcare_employee_benefit_exclusion id="34068625">TRUE</financial_healthcare_employee_benefit_exclusion>
+<crime_coverage id="32379025">TRUE</crime_coverage>
+</coverage_mods>
+<coverage_mods_rating_structure>
+</coverage_mods_rating_structure>
+<hazard_mods>
+</hazard_mods>
+<Hazard_Mods_Claims>
+</Hazard_Mods_Claims>
+</policy>
+<policy>
+<main>
+<policynumber id="-1">SGC07298-02</policynumber>
+<policynumber_prefix id="32807925">SGC07298</policynumber_prefix>
+<policynumber_suffix id="33661325">02</policynumber_suffix>
+<policyeffdate id="33660725">09/01/2018</policyeffdate>
+<policyexpdate id="33660825">09/01/2019</policyexpdate>
+<rnwlofpolexpdate id="33660825"></rnwlofpolexpdate>
+<policyexpdate id="33660825"></policyexpdate>
+<rnwlofpolicynum id="-1">SGC07298-01</rnwlofpolicynum>
+<rnwlofpolicyproduct_sn id="-1">TMC</rnwlofpolicyproduct_sn>
+<renewal_quickauto id="-1">N</renewal_quickauto>
+<renewal_form id="32807825">UWWB</renewal_form>
+<change_renewal_type id="-1">FALSE</change_renewal_type>
+<renewal_type id="-1">FALSE</renewal_type>
+<is_policy_an_annual_term id="32681925">Yes</is_policy_an_annual_term>
+</main>
+<account>
+<appname id="29238814">Leslie Ferry</appname>
+<appaddr1 id="29325214">8505 Redwood Drive</appaddr1>
+<appaddr2 id="210417"></appaddr2>
+<appcity id="29326314">Vienna</appcity>
+<appstate id="210419">VA</appstate>
+<appregion id="-1">South</appregion>
+<appcountry id="210423">USA</appcountry>
+<appzip id="29327414">22180</appzip>
+<appdivision id="-1">South Atlantic</appdivision>
+<appdba id="32976225">Amp-It</appdba>
+<apppka id="32208725">Leslie Ferry</apppka>
+<phone id="30589146">(240) 328-3486</phone>
+<website id="29236214"></website>
+<appnum id="-1">98547</appnum>
+<statetrannum id="-1"></statetrannum>
+<oniselection id="32976125">Amp It Marketing, LLC</oniselection>
+<clmhistevaluw id="34051725">2017: No claims</clmhistevaluw>
+</account>
+<producer>
+<brokernum id="-1">1241</brokernum>
+<brokercontactnum id="-1">1</brokercontactnum>
+<brokername id="-1">Hull and Company</brokername>
+<brokercity id="-1">Silver Spring</brokercity>
+<brokerst id="-1">MD</brokerst>
+<brokercountry id="-1">USA</brokercountry>
+<brokertype id="-1">Wholesaler</brokertype>
+<brokerregion id="-1">South</brokerregion>
+<brokerdivision id="-1">South Atlantic</brokerdivision>
+<brokergroup id="-1">Hull</brokergroup>
+<uw_primary id="-1"></uw_primary>
+<uw_secondary id="-1"></uw_secondary>
+<brokercontactname id="-1">Mark Baldwin</brokercontactname>
+<brokercontactemail id="-1">mark.baldwin@hullco.com</brokercontactemail>
+<brokerphone id="-1">(301) 439-4700</brokerphone>
+<capitolagencycode id="26590707">70225</capitolagencycode>
+<bkr_comm_details>
+<origbkrcommprct id="29428314">20</origbkrcommprct>
+<waiveflag id="33574625">N</waiveflag>
+<newbkrcommprct id="34069025">0</newbkrcommprct>
+<actbkrcommprct id="-1">20</actbkrcommprct>
+</bkr_comm_details>
+</producer>
+<basic_info>
+<product enumerated_id="20525" id="31916925">Technology / Media / Cyber</product>
+<datesubmitted id="-1">08/27/2018</datesubmitted>
+<underwriter id="26590807">Audrey Oglesby</underwriter>
+<renewalunderwriter id="-1">Audrey Oglesby</renewalunderwriter>
+<product enumerated_id="20525" id="31916925">Technology / Media / Cyber</product>
+<primaryclass id="-1">IN</primaryclass>
+<primaryclassdescription id="32231025">Internet</primaryclassdescription>
+<secondaryclass id="-1">AS</secondaryclass>
+<secondaryclassdescription id="32231125">Application Service Provider</secondaryclassdescription>
+<naicscode id="32338425">518210</naicscode>
+<nr_sgi id="31925325">Renewal</nr_sgi>
+<vertical id="31919625">Technology</vertical>
+<nr_sgi id="31925325">Renewal</nr_sgi>
+<naicscode id="32338425">518210</naicscode>
+<servicesprovided id="34051225"></servicesprovided>
+</basic_info>
+<subn>
+<submissionnum id="-1">2</submissionnum>
+</subn>
+<addl_info>
+<bindereffdate id="-1"></bindereffdate>
+<binderexpdate id="-1"></binderexpdate>
+<extrptprdexpdate id="-1"></extrptprdexpdate>
+<canceleffdate id="-1"></canceleffdate>
+<cancelreason id="-1"></cancelreason>
+<cancelflat_rewrite id="-1">N</cancelflat_rewrite>
+<hasins_1sttimebuyer id="-1"></hasins_1sttimebuyer>
+<keeprnwlwithuw id="-1">N</keeprnwlwithuw>
+<hasclaims id="-1">N</hasclaims>
+</addl_info>
+<addl_calcs>
+<limitfactor id="-1">0</limitfactor>
+<deductiblefactor id="-1"></deductiblefactor>
+</addl_calcs>
+<admin>
+<rnwl_qa_kickoutreason id="-1">Product</rnwl_qa_kickoutreason>
+</admin>
+<claim_hist>
+<claimfree id="-1"></claimfree>
+<claimfree_credit id="31987525">0</claimfree_credit>
+<claimactsurcharge_factor id="-1">1</claimactsurcharge_factor>
+</claim_hist>
+<forms_and_endts>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">WHAT TO DO IF YOU HAVE A CLAIM OR POTENTIAL CLAIM OR INCIDENT</formtitles>
+<formnums id="-1">N-201 (09/16)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">CapSpecialty Technology / Media / Cyber Policy</formtitles>
+<formnums id="-1">P-TMC-CW2010 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Service of Suit</formtitles>
+<formnums id="-1">E-9000 (02/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Business Interruption Loss and Extra Expenses Coverage Endorsement</formtitles>
+<formnums id="-1">E-TMC-4146 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Cyber Crime Coverage Endorsement</formtitles>
+<formnums id="-1">E-TMC-4222 (01/16)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Definition of Content Change Endorsement</formtitles>
+<formnums id="-1">E-TMC-4155 (09/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Financial / Healthcare / Employee Benefit Plan Exclusion Endorsement - Employee Privacy Incident</formtitles>
+<formnums id="-1">E-TMC-4217 (11/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Cap On Losses from Certified Acts of Terrorism</formtitles>
+<formnums id="-1">E-PL-7012 (04/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Conditional Exclusion of Terrorism</formtitles>
+<formnums id="-1">E-PL-7013 (04/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Disclosure Pursuant to Terrorism Risk Insurance Act</formtitles>
+<formnums id="-1">E-PL-7014 (04/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+</forms_and_endts>
+<miscellaneous>
+<renewal_quickautuo id="-1"></renewal_quickautuo>
+<eligibleforadm id="-1">N</eligibleforadm>
+</miscellaneous>
+<rating_basis>
+<coverages id="-1">E&amp;amp;O</coverages>
+<coverages_desc id="-1">Technology and Internet</coverages_desc>
+<covglayer id="-1">Primary</covglayer>
+<covgtype id="31995925">Claims Made &amp; Reported</covgtype>
+<claimexpense id="32128825">Within the Limits</claimexpense>
+<carriername id="26509507">Capitol Specialty Insurance Corporation</carriername>
+<an id="31924625">Surplus Lines</an>
+<ratingquotedate id="22120805">05/29/2018</ratingquotedate>
+<segmentnum id="32115525"></segmentnum>
+<firstdollar id="-1">N</firstdollar>
+<terrorismcovg id="31918825">Y</terrorismcovg>
+<tria_acceptorreject id="-1">A</tria_acceptorreject>
+<terrorismpremprct id="33697125"></terrorismpremprct>
+<ratingdesc id="-1">2018 Rating</ratingdesc>
+<standard_insuredactivities id="33307225"></standard_insuredactivities>
+</rating_basis>
+<rating_init_calcs>
+<ratingbasis id="31905125"></ratingbasis>
+<ratingbasies_adjusted id="34050325"></ratingbasies_adjusted>
+<ratingbasis_adjusted_desc id="34050425"></ratingbasis_adjusted_desc>
+<baserate id="-1"></baserate>
+<baseded id="34048825"></baseded>
+<riskfactor id="32135225"></riskfactor>
+<premiumafterriskfactor id="-1"></premiumafterriskfactor>
+<retrotype id="-1">NA</retrotype>
+<prioractsexcluded id="32039525">No</prioractsexcluded>
+<retrofactordefault id="34043725">No</retrofactordefault>
+<retrofactorused id="34043625">No</retrofactorused>
+<retrodate id="28164105">09/01/2017</retrodate>
+</rating_init_calcs>
+<rating_structure>
+<limiteachact id="32118525">1000000</limiteachact>
+<limitaggregate id="32197425">1000000</limitaggregate>
+<sublimit_covered id="-1"></sublimit_covered>
+<sublimit_amts id="-1">0</sublimit_amts>
+<dedeachact id="32118625">2500</dedeachact>
+<dedaggregate id="33290725"></dedaggregate>
+<cxratingmod_defaultfactor_3 id="-1"></cxratingmod_defaultfactor_3>
+<coveragemod_defaultfactor_1_3 id="-1"></coveragemod_defaultfactor_1_3>
+<coveragemod_minfactor_1_3 id="-1"></coveragemod_minfactor_1_3>
+<coveragemod_maxfactor_1_3 id="-1"></coveragemod_maxfactor_1_3>
+</rating_structure>
+<coverage_mods>
+<bodily_injury_and_property_damage_coverage_sublimit id="32124125">TRUE</bodily_injury_and_property_damage_coverage_sublimit>
+<financial_healthcare_employee_benefit_exclusion_type id="34068725">Employee Privacy</financial_healthcare_employee_benefit_exclusion_type>
+<financial_healthcare_employee_benefit_exclusion id="34068625">TRUE</financial_healthcare_employee_benefit_exclusion>
+<crime_coverage id="32379025">TRUE</crime_coverage>
+</coverage_mods>
+<coverage_mods_rating_structure>
+</coverage_mods_rating_structure>
+<hazard_mods>
+</hazard_mods>
+<Hazard_Mods_Claims>
+</Hazard_Mods_Claims>
+</policy>
+<policy>
+<main>
+<policynumber id="-1">SGC04537-05</policynumber>
+<policynumber_prefix id="32807925">SGC04537</policynumber_prefix>
+<policynumber_suffix id="33661325">05</policynumber_suffix>
+<policyeffdate id="33660725">09/01/2018</policyeffdate>
+<policyexpdate id="33660825">09/01/2019</policyexpdate>
+<rnwlofpolexpdate id="33660825"></rnwlofpolexpdate>
+<policyexpdate id="33660825"></policyexpdate>
+<rnwlofpolicynum id="-1">SGC04537-04</rnwlofpolicynum>
+<rnwlofpolicyproduct_sn id="-1">TMC</rnwlofpolicyproduct_sn>
+<renewal_quickauto id="-1">N</renewal_quickauto>
+<renewal_form id="32807825">UWWB</renewal_form>
+<change_renewal_type id="-1">FALSE</change_renewal_type>
+<renewal_type id="-1">FALSE</renewal_type>
+<is_policy_an_annual_term id="32681925">Yes</is_policy_an_annual_term>
+</main>
+<account>
+<appname id="29238814">Swellshark, LLC</appname>
+<appaddr1 id="29325214">55 West 39th Street, 18th Floor</appaddr1>
+<appaddr2 id="210417"></appaddr2>
+<appcity id="29326314">New York</appcity>
+<appstate id="210419">NY</appstate>
+<appregion id="-1">Northeast</appregion>
+<appcountry id="210423">USA</appcountry>
+<appzip id="29327414">10018</appzip>
+<appdivision id="-1">Middle Atlantic</appdivision>
+<appdba id="32976225"></appdba>
+<apppka id="32208725">Swellshark, LLC</apppka>
+<phone id="30589146">(212) 993-7238</phone>
+<website id="29236214">www.swellshark.com</website>
+<appnum id="-1">72823</appnum>
+<statetrannum id="-1"></statetrannum>
+<oniselection id="32976125"></oniselection>
+<clmhistevaluw id="34051725">No claims</clmhistevaluw>
+</account>
+<producer>
+<brokernum id="-1">1278</brokernum>
+<brokercontactnum id="-1">19</brokercontactnum>
+<brokername id="-1">NIF Group, Inc.</brokername>
+<brokercity id="-1">Manhasset</brokercity>
+<brokerst id="-1">NY</brokerst>
+<brokercountry id="-1">USA</brokercountry>
+<brokertype id="-1">Wholesaler</brokertype>
+<brokerregion id="-1">Northeast</brokerregion>
+<brokerdivision id="-1">Middle Atlantic</brokerdivision>
+<brokergroup id="-1">NIF</brokergroup>
+<uw_primary id="-1"></uw_primary>
+<uw_secondary id="-1"></uw_secondary>
+<brokercontactname id="-1">Nicholas Cacciola</brokercontactname>
+<brokercontactemail id="-1">NCacciola@nifgroup.com</brokercontactemail>
+<brokerphone id="-1">(800) 892-8892</brokerphone>
+<capitolagencycode id="26590707">70259</capitolagencycode>
+<bkr_comm_details>
+<origbkrcommprct id="29428314">20</origbkrcommprct>
+<waiveflag id="33574625">N</waiveflag>
+<newbkrcommprct id="34069025">0</newbkrcommprct>
+<actbkrcommprct id="-1">20</actbkrcommprct>
+</bkr_comm_details>
+</producer>
+<basic_info>
+<product enumerated_id="20525" id="31916925">Technology / Media / Cyber</product>
+<datesubmitted id="-1">08/07/2018</datesubmitted>
+<underwriter id="26590807">Carol Haralson</underwriter>
+<renewalunderwriter id="-1">Carol Haralson</renewalunderwriter>
+<product enumerated_id="20525" id="31916925">Technology / Media / Cyber</product>
+<primaryclass id="-1">AD</primaryclass>
+<primaryclassdescription id="32231025">Advertising</primaryclassdescription>
+<secondaryclass id="-1">AG</secondaryclass>
+<secondaryclassdescription id="32231125">Advertising Agency</secondaryclassdescription>
+<naicscode id="32338425">541810</naicscode>
+<nr_sgi id="31925325">Renewal</nr_sgi>
+<vertical id="31919625">Technology</vertical>
+<nr_sgi id="31925325">Renewal</nr_sgi>
+<naicscode id="32338425">541810</naicscode>
+<servicesprovided id="34051225">Advertising agency providing media strategy, planning and buying services; social media strategy and management; campaign measurement; content of www.swellshark.com.</servicesprovided>
+</basic_info>
+<subn>
+<submissionnum id="-1">5</submissionnum>
+</subn>
+<addl_info>
+<bindereffdate id="-1">09/01/2018</bindereffdate>
+<binderexpdate id="-1">10/01/2018</binderexpdate>
+<extrptprdexpdate id="-1"></extrptprdexpdate>
+<canceleffdate id="-1"></canceleffdate>
+<cancelreason id="-1"></cancelreason>
+<cancelflat_rewrite id="-1">N</cancelflat_rewrite>
+<hasins_1sttimebuyer id="-1">F</hasins_1sttimebuyer>
+<keeprnwlwithuw id="-1">N</keeprnwlwithuw>
+<hasclaims id="-1">N</hasclaims>
+</addl_info>
+<addl_calcs>
+<limitfactor id="-1">0</limitfactor>
+<deductiblefactor id="-1"></deductiblefactor>
+</addl_calcs>
+<admin>
+<rnwl_qa_kickoutreason id="-1">Product</rnwl_qa_kickoutreason>
+</admin>
+<claim_hist>
+<claimfree id="-1"></claimfree>
+<claimfree_credit id="31987525">0</claimfree_credit>
+<claimactsurcharge_factor id="-1">1</claimactsurcharge_factor>
+</claim_hist>
+<forms_and_endts>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">WHAT TO DO IF YOU HAVE A CLAIM OR POTENTIAL CLAIM OR INCIDENT</formtitles>
+<formnums id="-1">N-201 (09/16)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">CapSpecialty Technology / Media / Cyber Policy</formtitles>
+<formnums id="-1">P-TMC-CW2010 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">New York - Service of Suit</formtitles>
+<formnums id="-1">E-9000-NY (02/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Advertising / Marketing Change Endorsement</formtitles>
+<formnums id="-1">E-TMC-5038 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Business Interruption Loss and Extra Expenses Coverage Endorsement</formtitles>
+<formnums id="-1">E-TMC-4146 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Cyber Crime Coverage Endorsement</formtitles>
+<formnums id="-1">E-TMC-4222 (01/16)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Definition of Content Change Endorsement</formtitles>
+<formnums id="-1">E-TMC-4155 (09/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Definition of Damages Change Endorsement - Punitive Damages</formtitles>
+<formnums id="-1">E-TMC-4200 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Financial / Healthcare / Employee Benefit Plan Exclusion Endorsement - Employee Privacy Incident</formtitles>
+<formnums id="-1">E-TMC-4217 (11/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Unencrypted Laptops / Portable Devices Exclusion Endorsement</formtitles>
+<formnums id="-1">E-TC-4133 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Cap On Losses from Certified Acts of Terrorism</formtitles>
+<formnums id="-1">E-PL-7012 (04/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Conditional Exclusion of Terrorism</formtitles>
+<formnums id="-1">E-PL-7013 (04/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Disclosure Pursuant to Terrorism Risk Insurance Act</formtitles>
+<formnums id="-1">E-PL-7014 (04/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+</forms_and_endts>
+<miscellaneous>
+<renewal_quickautuo id="-1"></renewal_quickautuo>
+<eligibleforadm id="-1">N</eligibleforadm>
+</miscellaneous>
+<rating_basis>
+<coverages id="-1">E&amp;amp;O</coverages>
+<coverages_desc id="-1">Technology and Internet</coverages_desc>
+<covglayer id="-1">Primary</covglayer>
+<covgtype id="31995925">Claims Made &amp; Reported</covgtype>
+<claimexpense id="32128825">Within the Limits</claimexpense>
+<carriername id="26509507">Capitol Specialty Insurance Corporation</carriername>
+<an id="31924625">Surplus Lines</an>
+<ratingquotedate id="22120805">08/08/2018</ratingquotedate>
+<segmentnum id="32115525"></segmentnum>
+<firstdollar id="-1">N</firstdollar>
+<terrorismcovg id="31918825">Y</terrorismcovg>
+<tria_acceptorreject id="-1">A</tria_acceptorreject>
+<terrorismpremprct id="33697125"></terrorismpremprct>
+<ratingdesc id="-1">2018 Rating</ratingdesc>
+<standard_insuredactivities id="33307225"></standard_insuredactivities>
+</rating_basis>
+<rating_init_calcs>
+<ratingbasis id="31905125"></ratingbasis>
+<ratingbasies_adjusted id="34050325"></ratingbasies_adjusted>
+<ratingbasis_adjusted_desc id="34050425"></ratingbasis_adjusted_desc>
+<baserate id="-1"></baserate>
+<baseded id="34048825"></baseded>
+<riskfactor id="32135225"></riskfactor>
+<premiumafterriskfactor id="-1"></premiumafterriskfactor>
+<retrotype id="-1">NA</retrotype>
+<prioractsexcluded id="32039525">No</prioractsexcluded>
+<retrofactordefault id="34043725">No</retrofactordefault>
+<retrofactorused id="34043625">No</retrofactorused>
+<retrodate id="28164105">09/01/2014</retrodate>
+</rating_init_calcs>
+<rating_structure>
+<limiteachact id="32118525">5000000</limiteachact>
+<limitaggregate id="32197425">5000000</limitaggregate>
+<sublimit_covered id="-1"></sublimit_covered>
+<sublimit_amts id="-1">0</sublimit_amts>
+<dedeachact id="32118625">5000</dedeachact>
+<dedaggregate id="33290725"></dedaggregate>
+<cxratingmod_defaultfactor_3 id="-1"></cxratingmod_defaultfactor_3>
+<coveragemod_defaultfactor_1_3 id="-1"></coveragemod_defaultfactor_1_3>
+<coveragemod_minfactor_1_3 id="-1"></coveragemod_minfactor_1_3>
+<coveragemod_maxfactor_1_3 id="-1"></coveragemod_maxfactor_1_3>
+</rating_structure>
+<coverage_mods>
+<encrypted_laptop_and_portable_devices_coverage_indicator id="34048325">Exclusion</encrypted_laptop_and_portable_devices_coverage_indicator>
+<encrypted_laptop_and_portable_devices_coverage id="32216825">TRUE</encrypted_laptop_and_portable_devices_coverage>
+<bodily_injury_and_property_damage_coverage_sublimit id="32124125">TRUE</bodily_injury_and_property_damage_coverage_sublimit>
+<financial_healthcare_employee_benefit_exclusion_type id="34068725">Employee Privacy</financial_healthcare_employee_benefit_exclusion_type>
+<financial_healthcare_employee_benefit_exclusion id="34068625">TRUE</financial_healthcare_employee_benefit_exclusion>
+<crime_coverage id="32379025">TRUE</crime_coverage>
+</coverage_mods>
+<coverage_mods_rating_structure>
+</coverage_mods_rating_structure>
+<hazard_mods>
+</hazard_mods>
+<Hazard_Mods_Claims>
+</Hazard_Mods_Claims>
+</policy>
+<policy>
+<main>
+<policynumber id="-1">SGC06126-03</policynumber>
+<policynumber_prefix id="32807925">SGC06126</policynumber_prefix>
+<policynumber_suffix id="33661325">03</policynumber_suffix>
+<policyeffdate id="33660725">09/01/2018</policyeffdate>
+<policyexpdate id="33660825">09/01/2019</policyexpdate>
+<rnwlofpolexpdate id="33660825"></rnwlofpolexpdate>
+<policyexpdate id="33660825"></policyexpdate>
+<rnwlofpolicynum id="-1">SGC06126-02</rnwlofpolicynum>
+<rnwlofpolicyproduct_sn id="-1">TMC</rnwlofpolicyproduct_sn>
+<renewal_quickauto id="-1">N</renewal_quickauto>
+<renewal_form id="32807825">UWWB</renewal_form>
+<change_renewal_type id="-1">FALSE</change_renewal_type>
+<renewal_type id="-1">FALSE</renewal_type>
+<is_policy_an_annual_term id="32681925">Yes</is_policy_an_annual_term>
+</main>
+<account>
+<appname id="29238814">CCS Community Conservation Solutions, LLC</appname>
+<appaddr1 id="29325214">15303 Ventura Boulevard, Suite 200</appaddr1>
+<appaddr2 id="210417"></appaddr2>
+<appcity id="29326314">Sherman Oaks</appcity>
+<appstate id="210419">CA</appstate>
+<appregion id="-1">West</appregion>
+<appcountry id="210423">USA</appcountry>
+<appzip id="29327414">91403</appzip>
+<appdivision id="-1">Pacific</appdivision>
+<appdba id="32976225"></appdba>
+<apppka id="32208725">CCS Community Conservation Solutions, LLC</apppka>
+<phone id="30589146"></phone>
+<website id="29236214">www.communityconserv.com</website>
+<appnum id="-1">87286</appnum>
+<statetrannum id="-1"></statetrannum>
+<oniselection id="32976125"></oniselection>
+<clmhistevaluw id="34051725">No claims
+2018: This will be our 3rd year - no claims</clmhistevaluw>
+</account>
+<producer>
+<brokernum id="-1">1894</brokernum>
+<brokercontactnum id="-1">5</brokercontactnum>
+<brokername id="-1">ECC Insurance Brokers, Inc.</brokername>
+<brokercity id="-1">Los Angeles</brokercity>
+<brokerst id="-1">CA</brokerst>
+<brokercountry id="-1">USA</brokercountry>
+<brokertype id="-1">Wholesaler</brokertype>
+<brokerregion id="-1">West</brokerregion>
+<brokerdivision id="-1">Pacific</brokerdivision>
+<brokergroup id="-1">Hull</brokergroup>
+<uw_primary id="-1">Alice Ergovich/SGIS</uw_primary>
+<uw_secondary id="-1"></uw_secondary>
+<brokercontactname id="-1">John R. Watzel</brokercontactname>
+<brokercontactemail id="-1">jwatzel@eccins.com</brokercontactemail>
+<brokerphone id="-1">(310) 218-4069</brokerphone>
+<capitolagencycode id="26590707">70807</capitolagencycode>
+<bkr_comm_details>
+<origbkrcommprct id="29428314">20</origbkrcommprct>
+<waiveflag id="33574625">N</waiveflag>
+<newbkrcommprct id="34069025">0</newbkrcommprct>
+<actbkrcommprct id="-1">20</actbkrcommprct>
+</bkr_comm_details>
+</producer>
+<basic_info>
+<product enumerated_id="20525" id="31916925">Technology / Media / Cyber</product>
+<datesubmitted id="-1">08/13/2018</datesubmitted>
+<underwriter id="26590807">Carol Haralson</underwriter>
+<renewalunderwriter id="-1">Alice Ergovich</renewalunderwriter>
+<product enumerated_id="20525" id="31916925">Technology / Media / Cyber</product>
+<primaryclass id="-1">UT</primaryclass>
+<primaryclassdescription id="32231025">Utility</primaryclassdescription>
+<secondaryclass id="-1">AO</secondaryclass>
+<secondaryclassdescription id="32231125">All Other</secondaryclassdescription>
+<naicscode id="32338425">237120</naicscode>
+<nr_sgi id="31925325">Renewal</nr_sgi>
+<vertical id="31919625">Technology</vertical>
+<nr_sgi id="31925325">Renewal</nr_sgi>
+<naicscode id="32338425">237120</naicscode>
+<servicesprovided id="34051225">Utility management and billing services; content and services provided via www.communityconserv.com.</servicesprovided>
+</basic_info>
+<subn>
+<submissionnum id="-1">3</submissionnum>
+</subn>
+<addl_info>
+<bindereffdate id="-1">09/01/2018</bindereffdate>
+<binderexpdate id="-1">10/01/2018</binderexpdate>
+<extrptprdexpdate id="-1"></extrptprdexpdate>
+<canceleffdate id="-1"></canceleffdate>
+<cancelreason id="-1"></cancelreason>
+<cancelflat_rewrite id="-1">N</cancelflat_rewrite>
+<hasins_1sttimebuyer id="-1"></hasins_1sttimebuyer>
+<keeprnwlwithuw id="-1">N</keeprnwlwithuw>
+<hasclaims id="-1">N</hasclaims>
+</addl_info>
+<addl_calcs>
+<limitfactor id="-1">0</limitfactor>
+<deductiblefactor id="-1"></deductiblefactor>
+</addl_calcs>
+<admin>
+<rnwl_qa_kickoutreason id="-1">Product</rnwl_qa_kickoutreason>
+</admin>
+<claim_hist>
+<claimfree id="-1"></claimfree>
+<claimfree_credit id="31987525">0</claimfree_credit>
+<claimactsurcharge_factor id="-1">1</claimactsurcharge_factor>
+</claim_hist>
+<forms_and_endts>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">WHAT TO DO IF YOU HAVE A CLAIM OR POTENTIAL CLAIM OR INCIDENT</formtitles>
+<formnums id="-1">N-201 (09/16)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">CapSpecialty Technology / Media / Cyber Policy</formtitles>
+<formnums id="-1">P-TMC-CW2010 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">California - Service of Suit</formtitles>
+<formnums id="-1">E-9000-CA (02/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Automatic Coverage for New Subsidiaries - Amend Revenue Threshold</formtitles>
+<formnums id="-1">E-TC-4602 (06/18)</formnums>
+<fill_ins>
+<fill_in>
+<percent_number baseform="4602" id="32497825">15</percent_number>
+</fill_in>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Business Interruption Loss and Extra Expenses Coverage Endorsement</formtitles>
+<formnums id="-1">E-TMC-4146 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Cancellation; No Obligation to Renew Change Endorsement</formtitles>
+<formnums id="-1">E-TC-4313 (01/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Definition of Content Change Endorsement</formtitles>
+<formnums id="-1">E-TMC-4155 (09/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Financial Services Change Endorsement</formtitles>
+<formnums id="-1">E-TMC-4086 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Financial / Healthcare / Employee Benefit Plan Exclusion Endorsement - Employee Privacy Incident</formtitles>
+<formnums id="-1">E-TMC-4217 (11/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Notice of Cancellation Change Endorsement</formtitles>
+<formnums id="-1">E-TC-4001 (08/15)</formnums>
+<fill_ins>
+<fill_in>
+<cancellation_notice_no_of_days baseform="4001" id="32175425">60</cancellation_notice_no_of_days>
+</fill_in>
+<fill_in>
+<nonrenewal_notice_no_of_days baseform="4001" id="32454625">60</nonrenewal_notice_no_of_days>
+</fill_in>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Notice of Claim Change Endorsement - Sixty (60) Days</formtitles>
+<formnums id="-1">E-TC-4230 (08/16)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">PCI Fines and Costs Coverage Endorsement</formtitles>
+<formnums id="-1">E-TMC-4199 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Unencrypted Laptops / Portable Devices Exclusion Endorsement</formtitles>
+<formnums id="-1">E-TC-4133 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">NOTICE</formtitles>
+<formnums id="-1">D-2</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Cap On Losses from Certified Acts of Terrorism</formtitles>
+<formnums id="-1">E-PL-7012 (04/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Conditional Exclusion of Terrorism</formtitles>
+<formnums id="-1">E-PL-7013 (04/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Disclosure Pursuant to Terrorism Risk Insurance Act</formtitles>
+<formnums id="-1">E-PL-7014 (04/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+</forms_and_endts>
+<miscellaneous>
+<renewal_quickautuo id="-1"></renewal_quickautuo>
+<eligibleforadm id="-1">N</eligibleforadm>
+</miscellaneous>
+<rating_basis>
+<coverages id="-1">E&amp;amp;O</coverages>
+<coverages_desc id="-1">Technology and Internet</coverages_desc>
+<covglayer id="-1">Primary</covglayer>
+<covgtype id="31995925">Claims Made &amp; Reported</covgtype>
+<claimexpense id="32128825">Within the Limits</claimexpense>
+<carriername id="26509507">Capitol Specialty Insurance Corporation</carriername>
+<an id="31924625">Surplus Lines</an>
+<ratingquotedate id="22120805">08/17/2018</ratingquotedate>
+<segmentnum id="32115525"></segmentnum>
+<firstdollar id="-1">N</firstdollar>
+<terrorismcovg id="31918825">Y</terrorismcovg>
+<tria_acceptorreject id="-1">A</tria_acceptorreject>
+<terrorismpremprct id="33697125"></terrorismpremprct>
+<ratingdesc id="-1">Copy: 2018 Rating - Adding E-TC-4602 form</ratingdesc>
+<standard_insuredactivities id="33307225"></standard_insuredactivities>
+</rating_basis>
+<rating_init_calcs>
+<ratingbasis id="31905125"></ratingbasis>
+<ratingbasies_adjusted id="34050325"></ratingbasies_adjusted>
+<ratingbasis_adjusted_desc id="34050425"></ratingbasis_adjusted_desc>
+<baserate id="-1"></baserate>
+<baseded id="34048825"></baseded>
+<riskfactor id="32135225"></riskfactor>
+<premiumafterriskfactor id="-1"></premiumafterriskfactor>
+<retrotype id="-1">NA</retrotype>
+<prioractsexcluded id="32039525">No</prioractsexcluded>
+<retrofactordefault id="34043725">No</retrofactordefault>
+<retrofactorused id="34043625">No</retrofactorused>
+<retrodate id="28164105">03/27/2013</retrodate>
+</rating_init_calcs>
+<rating_structure>
+<limiteachact id="32118525">3000000</limiteachact>
+<limitaggregate id="32197425">3000000</limitaggregate>
+<sublimit_covered id="-1"></sublimit_covered>
+<sublimit_amts id="-1">0</sublimit_amts>
+<dedeachact id="32118625">25000</dedeachact>
+<dedaggregate id="33290725"></dedaggregate>
+<cxratingmod_defaultfactor_3 id="-1"></cxratingmod_defaultfactor_3>
+<coveragemod_defaultfactor_1_3 id="-1"></coveragemod_defaultfactor_1_3>
+<coveragemod_minfactor_1_3 id="-1"></coveragemod_minfactor_1_3>
+<coveragemod_maxfactor_1_3 id="-1"></coveragemod_maxfactor_1_3>
+</rating_structure>
+<coverage_mods>
+<encrypted_laptop_and_portable_devices_coverage_indicator id="34048325">Exclusion</encrypted_laptop_and_portable_devices_coverage_indicator>
+<encrypted_laptop_and_portable_devices_coverage id="32216825">TRUE</encrypted_laptop_and_portable_devices_coverage>
+<bodily_injury_and_property_damage_coverage_sublimit id="32124125">TRUE</bodily_injury_and_property_damage_coverage_sublimit>
+<pci_fines_and_costs id="32124225">TRUE</pci_fines_and_costs>
+<financial_healthcare_employee_benefit_exclusion_type id="34068725">Employee Privacy</financial_healthcare_employee_benefit_exclusion_type>
+<financial_healthcare_employee_benefit_exclusion id="34068625">TRUE</financial_healthcare_employee_benefit_exclusion>
+</coverage_mods>
+<coverage_mods_rating_structure>
+</coverage_mods_rating_structure>
+<hazard_mods>
+</hazard_mods>
+<Hazard_Mods_Claims>
+</Hazard_Mods_Claims>
+</policy>
+<policy>
+<main>
+<policynumber id="-1">SGC0010000-01</policynumber>
+<policynumber_prefix id="32807925">SGC0010000</policynumber_prefix>
+<policynumber_suffix id="33661325">01</policynumber_suffix>
+<policyeffdate id="33660725">09/01/2018</policyeffdate>
+<policyexpdate id="33660825">09/01/2019</policyexpdate>
+<rnwlofpolexpdate id="33660825"></rnwlofpolexpdate>
+<policyexpdate id="33660825"></policyexpdate>
+<rnwlofpolicynum id="-1"></rnwlofpolicynum>
+<rnwlofpolicyproduct_sn id="-1"></rnwlofpolicyproduct_sn>
+<renewal_quickauto id="34162725">N</renewal_quickauto>
+<renewal_form id="32807825">UWWB</renewal_form>
+<change_renewal_type id="34163025">FALSE</change_renewal_type>
+<renewal_type id="-1">FALSE</renewal_type>
+<is_policy_an_annual_term id="32681925">Yes</is_policy_an_annual_term>
+</main>
+<account>
+<appname id="29238814">Canyon Partners, LLC</appname>
+<appaddr1 id="29325214">9665 Wilshire Boulevard, Suite 200</appaddr1>
+<appaddr2 id="210417"></appaddr2>
+<appcity id="29326314">Beverly Hills</appcity>
+<appstate id="210419">CA</appstate>
+<appregion id="-1">West</appregion>
+<appcountry id="210423">USA</appcountry>
+<appzip id="29327414">90212</appzip>
+<appdivision id="-1">Pacific</appdivision>
+<appdba id="32976225">First Name</appdba>
+<apppka id="32208725">Canyon Partners, LLC</apppka>
+<phone id="30589146"></phone>
+<website id="29236214">www.canyonpartners.com</website>
+<appnum id="-1">1005</appnum>
+<statetrannum id="-1"></statetrannum>
+<oniselection id="32976125">Canyon Capital Advisors, LLC</oniselection>
+<clmhistevaluw id="34051725"></clmhistevaluw>
+</account>
+<producer>
+<brokernum id="-1">1863</brokernum>
+<brokercontactnum id="-1">1</brokercontactnum>
+<brokername id="-1">Risk Placement Services, Inc.</brokername>
+<brokercity id="-1">Lafayette</brokercity>
+<brokerst id="-1">CA</brokerst>
+<brokercountry id="-1">USA</brokercountry>
+<brokertype id="-1">Wholesaler</brokertype>
+<brokerregion id="-1">West</brokerregion>
+<brokerdivision id="-1">Pacific</brokerdivision>
+<brokergroup id="-1">RPS</brokergroup>
+<uw_primary id="-1"></uw_primary>
+<uw_secondary id="-1"></uw_secondary>
+<brokercontactname id="-1">Ted Doolittle</brokercontactname>
+<brokercontactemail id="-1">ted_doolittle@rpsins.com</brokercontactemail>
+<brokerphone id="-1">(925) 824-3195</brokerphone>
+<capitolagencycode id="26590707">70766</capitolagencycode>
+<bkr_comm_details>
+<origbkrcommprct id="29428314">20</origbkrcommprct>
+<waiveflag id="33574625">N</waiveflag>
+<newbkrcommprct id="34069025">0</newbkrcommprct>
+<actbkrcommprct id="-1">20</actbkrcommprct>
+</bkr_comm_details>
+</producer>
+<basic_info>
+<product enumerated_id="20725" id="31916925">Association E&amp;O</product>
+<datesubmitted id="-1">09/15/2018</datesubmitted>
+<underwriter id="26590807">Nicole Callahan</underwriter>
+<renewalunderwriter id="-1">Nicole Callahan</renewalunderwriter>
+<product enumerated_id="20725" id="31916925">Association E&amp;O</product>
+<primaryclass id="-1">AS</primaryclass>
+<primaryclassdescription id="32231025">Association</primaryclassdescription>
+<secondaryclass id="-1">CT</secondaryclass>
+<secondaryclassdescription id="32231125">Certification / Accreditation Testing / Monitoring</secondaryclassdescription>
+<naicscode id="32338425">926150</naicscode>
+<nr_sgi id="31925325">New</nr_sgi>
+<vertical id="31919625">Errors and Omissions</vertical>
+<nr_sgi id="31925325">New</nr_sgi>
+<naicscode id="32338425">926150</naicscode>
+<servicesprovided id="34053925"></servicesprovided>
+</basic_info>
+<subn>
+<submissionnum id="-1">1</submissionnum>
+</subn>
+<addl_info>
+<bindereffdate id="-1">09/01/2018</bindereffdate>
+<binderexpdate id="-1">10/01/2018</binderexpdate>
+<extrptprdexpdate id="-1"></extrptprdexpdate>
+<canceleffdate id="-1"></canceleffdate>
+<cancelreason id="-1"></cancelreason>
+<cancelflat_rewrite id="-1">N</cancelflat_rewrite>
+<hasins_1sttimebuyer id="-1"></hasins_1sttimebuyer>
+<keeprnwlwithuw id="-1">N</keeprnwlwithuw>
+<hasclaims id="-1">N</hasclaims>
+</addl_info>
+<addl_calcs>
+<limitfactor id="-1">1</limitfactor>
+<deductiblefactor id="-1">1.2</deductiblefactor>
+</addl_calcs>
+<admin>
+<rnwl_qa_kickoutreason id="-1">Adj_Revenue</rnwl_qa_kickoutreason>
+</admin>
+<claim_hist>
+<claimfree id="-1"></claimfree>
+<claimfree_credit id="31987525">0</claimfree_credit>
+<claimactsurcharge_factor id="-1">1</claimactsurcharge_factor>
+</claim_hist>
+<forms_and_endts>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">WHAT TO DO IF YOU HAVE A CLAIM OR POTENTIAL CLAIM OR INCIDENT</formtitles>
+<formnums id="-1">N-200 (09/16)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Association E&amp;O Policy</formtitles>
+<formnums id="-1">P-C-A-CW2002TR (1-14)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">California - Service of Suit</formtitles>
+<formnums id="-1">E-9000-CA (02/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Additional Insured - Designated Entity and Other Insurance Condition Extension Endorsement</formtitles>
+<formnums id="-1">E-C-A-4023TR (1-14)</formnums>
+<fill_ins>
+<fill_in>
+<additional_insured_name baseform="4023" id="32260525">The Gully Brothers</additional_insured_name>
+</fill_in>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Bodily Injury / Property Damage Endorsement - Sublimit</formtitles>
+<formnums id="-1">E-A-4159TR (08/16)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Copyright / Trademark Infringement Exclusion Endorsement</formtitles>
+<formnums id="-1">E-A-4056 (10-09)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Definition of Insured Exclusion Endorsement - Volunteers</formtitles>
+<formnums id="-1">E-C-A-4048 (10-09)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">ERISA Violation Exclusion Change Endorsement</formtitles>
+<formnums id="-1">E-C-AM-4069 (2-11)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Gain / Profit / Advantage Exclusion Endorsement</formtitles>
+<formnums id="-1">E-4157TR (04/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">NOTICE</formtitles>
+<formnums id="-1">D-2</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+</forms_and_endts>
+<miscellaneous>
+<renewal_quickautuo id="-1"></renewal_quickautuo>
+<eligibleforadm id="-1">N</eligibleforadm>
+</miscellaneous>
+<rating_basis>
+<coverages id="-1">E&amp;amp;O</coverages>
+<coverages_desc id="-1">Association E&amp;amp;O</coverages_desc>
+<covglayer id="-1">Primary</covglayer>
+<covgtype id="31995925">Claims Made</covgtype>
+<claimexpense id="32336425">Within the Limits</claimexpense>
+<carriername id="26509507">Capitol Specialty Insurance Corporation</carriername>
+<an id="31924625">Surplus Lines</an>
+<ratingquotedate id="22120805">09/16/2018</ratingquotedate>
+<segmentnum id="32115525"></segmentnum>
+<firstdollar id="-1">N</firstdollar>
+<terrorismcovg id="-1">N</terrorismcovg>
+<tria_acceptorreject id="-1"></tria_acceptorreject>
+<terrorismpremprct id="-1"></terrorismpremprct>
+<ratingdesc id="-1">Test 2</ratingdesc>
+<standard_insuredactivities id="33307225"></standard_insuredactivities>
+</rating_basis>
+<rating_init_calcs>
+<ratingbasis id="31905125"></ratingbasis>
+<ratingbasies_adjusted id="34050325"></ratingbasies_adjusted>
+<ratingbasis_adjusted_desc id="34050425">Portion of Revenues for Association Activities</ratingbasis_adjusted_desc>
+<baserate id="-1"></baserate>
+<baseded id="34048825"></baseded>
+<riskfactor id="32135225"></riskfactor>
+<premiumafterriskfactor id="-1"></premiumafterriskfactor>
+<retrotype id="-1">Average</retrotype>
+<prioractsexcluded id="32039525">Yes</prioractsexcluded>
+<retrofactordefault id="34043725">Yes</retrofactordefault>
+<retrofactorused id="34043625">Yes</retrofactorused>
+<retrodate id="28164105">09/01/2018</retrodate>
+</rating_init_calcs>
+<rating_structure>
+<limiteachact id="34043925">1000000</limiteachact>
+<limitaggregate id="34044025">1000000</limitaggregate>
+<sublimit_covered id="32838025"></sublimit_covered>
+<sublimit_amts id="34086225">250000</sublimit_amts>
+<dedeachact id="34048925">15000</dedeachact>
+<dedaggregate id="-1"></dedaggregate>
+<cxratingmod_defaultfactor_3 id="34118925">1</cxratingmod_defaultfactor_3>
+<coveragemod_defaultfactor_1_3 id="34119025">.9</coveragemod_defaultfactor_1_3>
+<coveragemod_minfactor_1_3 id="34119225">.85</coveragemod_minfactor_1_3>
+<coveragemod_maxfactor_1_3 id="34119125">.9</coveragemod_maxfactor_1_3>
+</rating_structure>
+<coverage_mods>
+<additional_insureds_coverage id="32450225">TRUE</additional_insureds_coverage>
+<additional_insured_input_rf id="34053125">1.1</additional_insured_input_rf>
+<additional_insured_max_rf id="34053225">1.25</additional_insured_max_rf>
+<additional_insured_min_rf id="34053325">1</additional_insured_min_rf>
+<additional_insured_default_rf id="34053025"></additional_insured_default_rf>
+<exclude_copyright_trademark_infringement_type id="34108725">Copyright/Trademark (CR/TM)</exclude_copyright_trademark_infringement_type>
+<bodily_injury_and_property_damage_sublimit_bipd_type id="34051925">Bodily Injury / Property Damage (BI/PD)</bodily_injury_and_property_damage_sublimit_bipd_type>
+<bodily_injury_and_property_damage_coverage_sublimit id="33199625">TRUE</bodily_injury_and_property_damage_coverage_sublimit>
+<exclude_copyright_trademark_infringement id="34108825">TRUE</exclude_copyright_trademark_infringement>
+<exclude_volunteers id="34062325">TRUE</exclude_volunteers>
+</coverage_mods>
+<coverage_mods_rating_structure>
+</coverage_mods_rating_structure>
+<hazard_mods>
+<cxratingmod_defaultfactor_1_17x_18 id="-1">1</cxratingmod_defaultfactor_1_17x_18>
+</hazard_mods>
+<Hazard_Mods_Claims>
+<claims_experience id="31987325">No Prior Claims</claims_experience>
+<claims_experience_default_rf id="31987425">1</claims_experience_default_rf>
+<claims_experience_input_rf id="31987525"></claims_experience_input_rf>
+<claims_experience_max_rf id="31987625"></claims_experience_max_rf>
+<claims_experience_min_rf id="31987725"></claims_experience_min_rf>
+</Hazard_Mods_Claims>
+</policy>
+<policy>
+<main>
+<policynumber id="-1">SGC0010001-01</policynumber>
+<policynumber_prefix id="32807925">SGC0010001</policynumber_prefix>
+<policynumber_suffix id="33661325">01</policynumber_suffix>
+<policyeffdate id="33660725">09/10/2018</policyeffdate>
+<policyexpdate id="33660825">09/10/2019</policyexpdate>
+<rnwlofpolexpdate id="33660825"></rnwlofpolexpdate>
+<policyexpdate id="33660825"></policyexpdate>
+<rnwlofpolicynum id="-1"></rnwlofpolicynum>
+<rnwlofpolicyproduct_sn id="-1"></rnwlofpolicyproduct_sn>
+<renewal_quickauto id="34162725">2</renewal_quickauto>
+<renewal_form id="32807825">UWWB</renewal_form>
+<change_renewal_type id="34163025">FALSE</change_renewal_type>
+<renewal_type id="-1">FALSE</renewal_type>
+<is_policy_an_annual_term id="32681925">Yes</is_policy_an_annual_term>
+</main>
+<account>
+<appname id="29238814">Maintenance Strategies, Inc.</appname>
+<appaddr1 id="29325214">1150 First Avenue, Suite 930</appaddr1>
+<appaddr2 id="210417"></appaddr2>
+<appcity id="29326314">King of Prussia</appcity>
+<appstate id="210419">PA</appstate>
+<appregion id="-1">Northeast</appregion>
+<appcountry id="210423">USA</appcountry>
+<appzip id="29327414">19406</appzip>
+<appdivision id="-1">Middle Atlantic</appdivision>
+<appdba id="32976225"></appdba>
+<apppka id="32208725">Maintenance Strategies, Inc.</apppka>
+<phone id="30589146">(800) 676-6565</phone>
+<website id="29236214">www.msicorp.com; www.blue-cardinal.net</website>
+<appnum id="-1">1000</appnum>
+<statetrannum id="-1"></statetrannum>
+<oniselection id="32976125">Blue Cardinal, LLC </oniselection>
+<clmhistevaluw id="34051725"></clmhistevaluw>
+</account>
+<producer>
+<brokernum id="-1">999</brokernum>
+<brokercontactnum id="-1">2</brokercontactnum>
+<brokername id="-1">Test Broker - chg</brokername>
+<brokercity id="-1">Kansas City</brokercity>
+<brokerst id="-1">MO</brokerst>
+<brokercountry id="-1">USA</brokercountry>
+<brokertype id="-1"></brokertype>
+<brokerregion id="-1">Midwest</brokerregion>
+<brokerdivision id="-1">West North Central</brokerdivision>
+<brokergroup id="-1"></brokergroup>
+<uw_primary id="-1"></uw_primary>
+<uw_secondary id="-1"></uw_secondary>
+<brokercontactname id="-1">Dana Farmer</brokercontactname>
+<brokercontactemail id="-1">dfarmer@capspecialty.com</brokercontactemail>
+<brokerphone id="-1">(816) 123-4567</brokerphone>
+<capitolagencycode id="26590707">99999</capitolagencycode>
+<bkr_comm_details>
+<origbkrcommprct id="29428314">16.15</origbkrcommprct>
+<waiveflag id="33574625">N</waiveflag>
+<newbkrcommprct id="34069025">0</newbkrcommprct>
+<actbkrcommprct id="-1">16.15</actbkrcommprct>
+</bkr_comm_details>
+</producer>
+<basic_info>
+<product enumerated_id="20725" id="31916925">Association E&amp;O</product>
+<datesubmitted id="-1">09/15/2018</datesubmitted>
+<underwriter id="26590807">Alice Ergovich</underwriter>
+<renewalunderwriter id="-1">Alice Ergovich</renewalunderwriter>
+<product enumerated_id="20725" id="31916925">Association E&amp;O</product>
+<primaryclass id="-1">AS</primaryclass>
+<primaryclassdescription id="32231025">Association</primaryclassdescription>
+<secondaryclass id="-1">SS</secondaryclass>
+<secondaryclassdescription id="32231125">Standard Setting / Development</secondaryclassdescription>
+<naicscode id="32338425">926150</naicscode>
+<nr_sgi id="31925325">New</nr_sgi>
+<vertical id="31919625">Errors and Omissions</vertical>
+<nr_sgi id="31925325">New</nr_sgi>
+<naicscode id="32338425">926150</naicscode>
+<servicesprovided id="34053925">Services / Activities that print on Q / B / D</servicesprovided>
+</basic_info>
+<subn>
+<submissionnum id="-1">1</submissionnum>
+</subn>
+<addl_info>
+<bindereffdate id="-1">09/10/2018</bindereffdate>
+<binderexpdate id="-1">10/10/2018</binderexpdate>
+<extrptprdexpdate id="-1"></extrptprdexpdate>
+<canceleffdate id="-1"></canceleffdate>
+<cancelreason id="-1"></cancelreason>
+<cancelflat_rewrite id="-1">N</cancelflat_rewrite>
+<hasins_1sttimebuyer id="-1"></hasins_1sttimebuyer>
+<keeprnwlwithuw id="-1">N</keeprnwlwithuw>
+<hasclaims id="-1">N</hasclaims>
+</addl_info>
+<addl_calcs>
+<limitfactor id="-1">1.5</limitfactor>
+<deductiblefactor id="-1">1</deductiblefactor>
+</addl_calcs>
+<admin>
+<rnwl_qa_kickoutreason id="-1">Class Codes</rnwl_qa_kickoutreason>
+</admin>
+<claim_hist>
+<claimfree id="-1"></claimfree>
+<claimfree_credit id="31987525">0</claimfree_credit>
+<claimactsurcharge_factor id="-1">1</claimactsurcharge_factor>
+</claim_hist>
+<forms_and_endts>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">WHAT TO DO IF YOU HAVE A CLAIM OR POTENTIAL CLAIM OR INCIDENT</formtitles>
+<formnums id="-1">N-200 (09/16)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Association E&amp;O Policy</formtitles>
+<formnums id="-1">P-C-A-CW2002TR (1-14)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Pennsylvania - Cancellation; No Obligation to Renew Change Endorsement</formtitles>
+<formnums id="-1">E-8017TR-PA (1-14)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Advancement and Reimbursement of Defense Expenses</formtitles>
+<formnums id="-1">E-PL-7023 (09/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Service of Suit</formtitles>
+<formnums id="-1">E-9000 (02/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Additional Insured - Designated Entity Extension Endorsement</formtitles>
+<formnums id="-1">E-C-A-4022TR (1-14)</formnums>
+<fill_ins>
+<fill_in>
+<additional_insured_name baseform="4022" id="32260525">Desert Flippers, LLC</additional_insured_name>
+</fill_in>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Assumption of Liability Under Specified Contract Change Endorsement</formtitles>
+<formnums id="-1">E-C-A-4072TR (1-14)</formnums>
+<fill_ins>
+<fill_in>
+<contract_date baseform="4072" id="32340425">September 01, 2018</contract_date>
+</fill_in>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Bodily Injury / Property Damage Exclusion Endorsement</formtitles>
+<formnums id="-1">E-C-A-4041 (10-09)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Cancellation - Notice to Designated Third Party</formtitles>
+<formnums id="-1">E-PL-7017 (07/17)</formnums>
+<fill_ins>
+<fill_in>
+<individual_or_entity_name baseform="7017" id="32260525">The Big Bang Theory</individual_or_entity_name>
+</fill_in>
+<fill_in>
+<city baseform="7017" id="34045725">Omaha</city>
+</fill_in>
+<fill_in>
+<state baseform="7017" id="32971725">NE</state>
+</fill_in>
+<fill_in>
+<zip baseform="7017" id="33691225">68881</zip>
+</fill_in>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Definition of Insured Exclusion Endorsement - Independent Contractors</formtitles>
+<formnums id="-1">E-C-A-4014 (10-09)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Non-Employment Practices Discrimination Change Endorsement</formtitles>
+<formnums id="-1">E-C-A-4063TR (1-14)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Over-Redemption Exclusion Endorsement</formtitles>
+<formnums id="-1">E-C-4037 (10-09)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Personal Injury Exclusion Endorsement</formtitles>
+<formnums id="-1">E-C-ACM-4031 (10-09)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Policy Territory Change Endorsement</formtitles>
+<formnums id="-1">E-C-4017 (10-09)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+</forms_and_endts>
+<miscellaneous>
+<renewal_quickautuo id="-1"></renewal_quickautuo>
+<eligibleforadm id="-1">N</eligibleforadm>
+</miscellaneous>
+<rating_basis>
+<coverages id="-1">E&amp;amp;O</coverages>
+<coverages_desc id="-1">Association E&amp;amp;O</coverages_desc>
+<covglayer id="-1">Primary</covglayer>
+<covgtype id="31995925">Claims Made</covgtype>
+<claimexpense id="32336425">Within the Limits</claimexpense>
+<carriername id="26509507">Capitol Specialty Insurance Corporation</carriername>
+<an id="31924625">Surplus Lines</an>
+<ratingquotedate id="22120805">09/22/2018</ratingquotedate>
+<segmentnum id="32115525"></segmentnum>
+<firstdollar id="-1">N</firstdollar>
+<terrorismcovg id="-1">N</terrorismcovg>
+<tria_acceptorreject id="-1"></tria_acceptorreject>
+<terrorismpremprct id="-1"></terrorismpremprct>
+<ratingdesc id="-1">Select Forms that go with Modifiers</ratingdesc>
+<standard_insuredactivities id="33307225"></standard_insuredactivities>
+</rating_basis>
+<rating_init_calcs>
+<ratingbasis id="31905125"></ratingbasis>
+<ratingbasies_adjusted id="34050325"></ratingbasies_adjusted>
+<ratingbasis_adjusted_desc id="34050425"></ratingbasis_adjusted_desc>
+<baserate id="-1"></baserate>
+<baseded id="34048825"></baseded>
+<riskfactor id="32135225"></riskfactor>
+<premiumafterriskfactor id="-1"></premiumafterriskfactor>
+<retrotype id="-1">Average</retrotype>
+<prioractsexcluded id="32039525">No</prioractsexcluded>
+<retrofactordefault id="34043725">No</retrofactordefault>
+<retrofactorused id="34043625">No</retrofactorused>
+<retrodate id="28164105">09/15/2014</retrodate>
+</rating_init_calcs>
+<rating_structure>
+<limiteachact id="34043925">2000000</limiteachact>
+<limitaggregate id="34044025">2000000</limitaggregate>
+<sublimit_covered id="32838025"></sublimit_covered>
+<sublimit_amts id="34086225">500000</sublimit_amts>
+<dedeachact id="34048925">10000</dedeachact>
+<dedaggregate id="-1"></dedaggregate>
+<cxratingmod_defaultfactor_3 id="34118925">1</cxratingmod_defaultfactor_3>
+<coveragemod_defaultfactor_1_3 id="34119025">.9</coveragemod_defaultfactor_1_3>
+<coveragemod_minfactor_1_3 id="34119225">.85</coveragemod_minfactor_1_3>
+<coveragemod_maxfactor_1_3 id="34119125">.9</coveragemod_maxfactor_1_3>
+</rating_structure>
+<coverage_mods>
+<additional_insureds_coverage id="32450225">TRUE</additional_insureds_coverage>
+<additional_insured_input_rf id="34053125">1</additional_insured_input_rf>
+<additional_insured_max_rf id="34053225">1.25</additional_insured_max_rf>
+<additional_insured_min_rf id="34053325">1</additional_insured_min_rf>
+<additional_insured_default_rf id="34053025"></additional_insured_default_rf>
+<exclude_personal_injury_type id="34056625">Full</exclude_personal_injury_type>
+<non_employment_practices_discrimination baseform="4063" modname="Discrimination Defense Sublimit" id="34062925">Discrimination Defense Sublimit</non_employment_practices_discrimination>
+<non_employment_practices_discrimination_input baseform="4063" modname="Discrimination Defense Sublimit" id="34063625">1.15</non_employment_practices_discrimination_input>
+<non_employment_practices_discrimination_max baseform="4063" modname="Discrimination Defense Sublimit" id="34063725">1.5</non_employment_practices_discrimination_max>
+<non_employment_practices_discrimination_min baseform="4063" modname="Discrimination Defense Sublimit" id="34063825">1.1</non_employment_practices_discrimination_min>
+<non_employment_practices_discrimination_default baseform="4063" modname="Discrimination Defense Sublimit" id="34063525">1.1</non_employment_practices_discrimination_default>
+<exclude_bodily_injury_property_damage id="34052025">TRUE</exclude_bodily_injury_property_damage>
+<exclude_independent_contractors id="34053425">TRUE</exclude_independent_contractors>
+<exclude_personal_injury id="34054125">TRUE</exclude_personal_injury>
+<exclude_policy_territory_universal_coverage_ baseform="4017" modname="Exclude Universal Coverage" id="34058825">Exclude Universal Coverage</exclude_policy_territory_universal_coverage_>
+<exclude_policy_territory_universal_coverage_input baseform="4017" modname="Exclude Universal Coverage" id="34059025">.9</exclude_policy_territory_universal_coverage_input>
+<exclude_personal_injury_max baseform="4031" modname="Exclude Personal Injury / Privacy" id="34054425">.95</exclude_personal_injury_max>
+<exclude_policy_territory_universal_coverage_min baseform="4017" modname="Exclude Universal Coverage" id="34060125">.85</exclude_policy_territory_universal_coverage_min>
+<exclude_policy_territory_universal_coverage_default baseform="4017" modname="Exclude Universal Coverage" id="34058925">0.95</exclude_policy_territory_universal_coverage_default>
+</coverage_mods>
+<coverage_mods_rating_structure>
+</coverage_mods_rating_structure>
+<hazard_mods>
+<cxratingmod_defaultfactor_1_17x_18 id="-1">1</cxratingmod_defaultfactor_1_17x_18>
+</hazard_mods>
+<Hazard_Mods_Claims>
+<claims_experience id="31987325">No Prior Claims</claims_experience>
+<claims_experience_default_rf id="31987425">1</claims_experience_default_rf>
+<claims_experience_input_rf id="31987525"></claims_experience_input_rf>
+<claims_experience_max_rf id="31987625"></claims_experience_max_rf>
+<claims_experience_min_rf id="31987725"></claims_experience_min_rf>
+</Hazard_Mods_Claims>
+</policy>
+<policy>
+<main>
+<policynumber id="-1">SGC0010002-01</policynumber>
+<policynumber_prefix id="32807925">SGC0010002</policynumber_prefix>
+<policynumber_suffix id="33661325">01</policynumber_suffix>
+<policyeffdate id="33660725">09/16/2018</policyeffdate>
+<policyexpdate id="33660825">09/01/2019</policyexpdate>
+<rnwlofpolexpdate id="33660825"></rnwlofpolexpdate>
+<policyexpdate id="33660825"></policyexpdate>
+<rnwlofpolicynum id="-1"></rnwlofpolicynum>
+<rnwlofpolicyproduct_sn id="-1"></rnwlofpolicyproduct_sn>
+<renewal_quickauto id="-1">N</renewal_quickauto>
+<renewal_form id="32807825">UWWB</renewal_form>
+<change_renewal_type id="-1">FALSE</change_renewal_type>
+<renewal_type id="-1">FALSE</renewal_type>
+<is_policy_an_annual_term id="32681925">No</is_policy_an_annual_term>
+</main>
+<account>
+<appname id="29238814">Susan W. Farmer</appname>
+<appaddr1 id="29325214">P. O. Box 300</appaddr1>
+<appaddr2 id="210417"></appaddr2>
+<appcity id="29326314">Shelbyville</appcity>
+<appstate id="210419">TX</appstate>
+<appregion id="-1">South</appregion>
+<appcountry id="210423">USA</appcountry>
+<appzip id="29327414">75973</appzip>
+<appdivision id="-1">West South Central</appdivision>
+<appdba id="32976225">Insurance Publishing Services</appdba>
+<apppka id="32208725">Susan W. Farmer</apppka>
+<phone id="30589146">(800) 852-5639</phone>
+<website id="29236214"></website>
+<appnum id="-1">1010</appnum>
+<statetrannum id="-1"></statetrannum>
+<oniselection id="32976125"></oniselection>
+<clmhistevaluw id="34051725"></clmhistevaluw>
+</account>
+<producer>
+<brokernum id="-1">1866</brokernum>
+<brokercontactnum id="-1">13</brokercontactnum>
+<brokername id="-1">AmWINS Brokerage of Georgia</brokername>
+<brokercity id="-1">Atlanta</brokercity>
+<brokerst id="-1">GA</brokerst>
+<brokercountry id="-1">USA</brokercountry>
+<brokertype id="-1">Wholesaler</brokertype>
+<brokerregion id="-1">South</brokerregion>
+<brokerdivision id="-1">South Atlantic</brokerdivision>
+<brokergroup id="-1">AmWins</brokergroup>
+<uw_primary id="-1"></uw_primary>
+<uw_secondary id="-1"></uw_secondary>
+<brokercontactname id="-1">Matthew Shanks</brokercontactname>
+<brokercontactemail id="-1">matthew.shanks@amwins.com</brokercontactemail>
+<brokerphone id="-1">(404) 920-3700</brokerphone>
+<capitolagencycode id="26590707">70769</capitolagencycode>
+<bkr_comm_details>
+<origbkrcommprct id="29428314">20</origbkrcommprct>
+<waiveflag id="33574625">N</waiveflag>
+<newbkrcommprct id="34069025">0</newbkrcommprct>
+<actbkrcommprct id="-1">20</actbkrcommprct>
+</bkr_comm_details>
+</producer>
+<basic_info>
+<product enumerated_id="20525" id="31916925">Technology / Media / Cyber</product>
+<datesubmitted id="-1">09/15/2018</datesubmitted>
+<underwriter id="26590807">Crista Zatkalik</underwriter>
+<renewalunderwriter id="-1">Crista Zatkalik</renewalunderwriter>
+<product enumerated_id="20525" id="31916925">Technology / Media / Cyber</product>
+<primaryclass id="-1">CM</primaryclass>
+<primaryclassdescription id="32231025">Computer</primaryclassdescription>
+<secondaryclass id="-1">GA</secondaryclass>
+<secondaryclassdescription id="32231125">Computer Game Development / Distribution</secondaryclassdescription>
+<naicscode id="32338425">516110</naicscode>
+<nr_sgi id="31925325">New</nr_sgi>
+<vertical id="31919625">Technology</vertical>
+<nr_sgi id="31925325">New</nr_sgi>
+<naicscode id="32338425">516110</naicscode>
+<servicesprovided id="34051225"></servicesprovided>
+</basic_info>
+<subn>
+<submissionnum id="-1">1</submissionnum>
+</subn>
+<addl_info>
+<bindereffdate id="-1">09/16/2018</bindereffdate>
+<binderexpdate id="-1">10/16/2018</binderexpdate>
+<extrptprdexpdate id="-1"></extrptprdexpdate>
+<canceleffdate id="-1"></canceleffdate>
+<cancelreason id="-1"></cancelreason>
+<cancelflat_rewrite id="-1">N</cancelflat_rewrite>
+<hasins_1sttimebuyer id="-1"></hasins_1sttimebuyer>
+<keeprnwlwithuw id="-1">N</keeprnwlwithuw>
+<hasclaims id="-1">N</hasclaims>
+</addl_info>
+<addl_calcs>
+<limitfactor id="-1">0</limitfactor>
+<deductiblefactor id="-1"></deductiblefactor>
+</addl_calcs>
+<admin>
+<rnwl_qa_kickoutreason id="-1">Product</rnwl_qa_kickoutreason>
+</admin>
+<claim_hist>
+<claimfree id="-1"></claimfree>
+<claimfree_credit id="31987525">0</claimfree_credit>
+<claimactsurcharge_factor id="-1">1</claimactsurcharge_factor>
+</claim_hist>
+<forms_and_endts>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">TEXAS - IMPORTANT NOTICE</formtitles>
+<formnums id="-1">N-106TX (06/16)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">WHAT TO DO IF YOU HAVE A CLAIM OR POTENTIAL CLAIM OR INCIDENT</formtitles>
+<formnums id="-1">N-201 (09/16)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">CapSpecialty Technology / Media / Cyber Policy</formtitles>
+<formnums id="-1">P-TMC-CW2010 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Service of Suit</formtitles>
+<formnums id="-1">E-9000 (02/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Aggregate Retention Endorsement</formtitles>
+<formnums id="-1">E-TMC-4318 (01/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Bodily Injury / Property Damage Extension - Travel and Transportation Related Services</formtitles>
+<formnums id="-1">E-TMC-4509 (12/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Cyber Crime Coverage Endorsement</formtitles>
+<formnums id="-1">E-TMC-4222 (01/16)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Definition of Content Change Endorsement</formtitles>
+<formnums id="-1">E-TMC-4155 (09/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Definition of Insured - Interns</formtitles>
+<formnums id="-1">E-TMC-4504 (06/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Definition of Insured Exclusion Endorsement - Independent Contractors</formtitles>
+<formnums id="-1">E-TC-4014 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Financial / Healthcare / Employee Benefit Plan Exclusion Endorsement - Employee Privacy Incident</formtitles>
+<formnums id="-1">E-TMC-4217 (11/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Medical Billing / Coding Change Endorsement</formtitles>
+<formnums id="-1">E-TMC-5030 (02/16)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Network Extortion Threat Exclusion Endorsement</formtitles>
+<formnums id="-1">E-TMC-4144 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Non-Employment Practices Discrimination Claim Expenses Change Endorsement</formtitles>
+<formnums id="-1">E-TMC-4063 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">PCI Fines and Costs Coverage Endorsement</formtitles>
+<formnums id="-1">E-TMC-4199 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Cap On Losses from Certified Acts of Terrorism</formtitles>
+<formnums id="-1">E-PL-7012 (04/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Conditional Exclusion of Terrorism</formtitles>
+<formnums id="-1">E-PL-7013 (04/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Disclosure Pursuant to Terrorism Risk Insurance Act</formtitles>
+<formnums id="-1">E-PL-7014 (04/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+</forms_and_endts>
+<miscellaneous>
+<renewal_quickautuo id="-1"></renewal_quickautuo>
+<eligibleforadm id="-1">N</eligibleforadm>
+</miscellaneous>
+<rating_basis>
+<coverages id="-1">E&amp;amp;O</coverages>
+<coverages_desc id="-1">Technology and Internet</coverages_desc>
+<covglayer id="-1">Primary</covglayer>
+<covgtype id="31995925">Claims Made &amp; Reported</covgtype>
+<claimexpense id="32128825">Within the Limits</claimexpense>
+<carriername id="26509507">Capitol Specialty Insurance Corporation</carriername>
+<an id="31924625">Surplus Lines</an>
+<ratingquotedate id="22120805">09/16/2018</ratingquotedate>
+<segmentnum id="32115525"></segmentnum>
+<firstdollar id="-1">N</firstdollar>
+<terrorismcovg id="31918825">Y</terrorismcovg>
+<tria_acceptorreject id="-1">A</tria_acceptorreject>
+<terrorismpremprct id="33697125"></terrorismpremprct>
+<ratingdesc id="-1">Quote</ratingdesc>
+<standard_insuredactivities id="33307225"></standard_insuredactivities>
+</rating_basis>
+<rating_init_calcs>
+<ratingbasis id="31905125"></ratingbasis>
+<ratingbasies_adjusted id="34050325"></ratingbasies_adjusted>
+<ratingbasis_adjusted_desc id="34050425"></ratingbasis_adjusted_desc>
+<baserate id="-1"></baserate>
+<baseded id="34048825"></baseded>
+<riskfactor id="32135225"></riskfactor>
+<premiumafterriskfactor id="-1"></premiumafterriskfactor>
+<retrotype id="-1">NA</retrotype>
+<prioractsexcluded id="32039525">No</prioractsexcluded>
+<retrofactordefault id="34043725">No</retrofactordefault>
+<retrofactorused id="34043625">No</retrofactorused>
+<retrodate id="28164105">09/16/2015</retrodate>
+</rating_init_calcs>
+<rating_structure>
+<limiteachact id="32118525">3000000</limiteachact>
+<limitaggregate id="32197425">3000000</limitaggregate>
+<sublimit_covered id="-1"></sublimit_covered>
+<sublimit_amts id="-1">0</sublimit_amts>
+<dedeachact id="32118625">7500</dedeachact>
+<dedaggregate id="33290725"></dedaggregate>
+<cxratingmod_defaultfactor_3 id="-1"></cxratingmod_defaultfactor_3>
+<coveragemod_defaultfactor_1_3 id="-1"></coveragemod_defaultfactor_1_3>
+<coveragemod_minfactor_1_3 id="-1"></coveragemod_minfactor_1_3>
+<coveragemod_maxfactor_1_3 id="-1"></coveragemod_maxfactor_1_3>
+</rating_structure>
+<coverage_mods>
+<non_employment_practices_discrimination id="34062925">TRUE</non_employment_practices_discrimination>
+<pci_fines_and_costs id="32124225">TRUE</pci_fines_and_costs>
+<financial_healthcare_employee_benefit_exclusion_type id="34068725">Employee Privacy</financial_healthcare_employee_benefit_exclusion_type>
+<financial_healthcare_employee_benefit_exclusion id="34068625">TRUE</financial_healthcare_employee_benefit_exclusion>
+<crime_coverage id="32379025">TRUE</crime_coverage>
+<bodily_injury_and_property_damage_sublimit_bipd_type id="34051925">Bodily Injury / Property Damage (BI/PD)</bodily_injury_and_property_damage_sublimit_bipd_type>
+<bodily_injury_and_property_damage_sublmit_limit_type id="34068525">Travel &amp; Transport</bodily_injury_and_property_damage_sublmit_limit_type>
+<bodily_injury_property_damage id="32428625">TRUE</bodily_injury_property_damage>
+</coverage_mods>
+<coverage_mods_rating_structure>
+</coverage_mods_rating_structure>
+<hazard_mods>
+</hazard_mods>
+<Hazard_Mods_Claims>
+</Hazard_Mods_Claims>
+</policy>
+<policy>
+<main>
+<policynumber id="-1">SGC0010004-01</policynumber>
+<policynumber_prefix id="32807925">SGC0010004</policynumber_prefix>
+<policynumber_suffix id="33661325">01</policynumber_suffix>
+<policyeffdate id="33660725">09/20/2018</policyeffdate>
+<policyexpdate id="33660825">09/20/2019</policyexpdate>
+<rnwlofpolexpdate id="33660825"></rnwlofpolexpdate>
+<policyexpdate id="33660825"></policyexpdate>
+<rnwlofpolicynum id="-1"></rnwlofpolicynum>
+<rnwlofpolicyproduct_sn id="-1"></rnwlofpolicyproduct_sn>
+<renewal_quickauto id="-1">N</renewal_quickauto>
+<renewal_form id="32807825">UWWB</renewal_form>
+<change_renewal_type id="-1">FALSE</change_renewal_type>
+<renewal_type id="-1">FALSE</renewal_type>
+<is_policy_an_annual_term id="32681925">Yes</is_policy_an_annual_term>
+</main>
+<account>
+<appname id="29238814">Cordia Corporation</appname>
+<appaddr1 id="29325214">445 Hamilton Avenue, Suite 408</appaddr1>
+<appaddr2 id="210417">P. O. Box 408</appaddr2>
+<appcity id="29326314">White Plains</appcity>
+<appstate id="210419">NY</appstate>
+<appregion id="-1">Northeast</appregion>
+<appcountry id="210423">USA</appcountry>
+<appzip id="29327414">10601</appzip>
+<appdivision id="-1">Middle Atlantic</appdivision>
+<appdba id="32976225"></appdba>
+<apppka id="32208725">Cordia Corporation</apppka>
+<phone id="30589146"></phone>
+<website id="29236214">www.cordiacorp.com; www.cordiaip.com; www.cordia.us</website>
+<appnum id="-1">1025</appnum>
+<statetrannum id="-1"></statetrannum>
+<oniselection id="32976125">Cordia Communications Corporation</oniselection>
+<clmhistevaluw id="34051725"></clmhistevaluw>
+</account>
+<producer>
+<brokernum id="-1">1543</brokernum>
+<brokercontactnum id="-1">3</brokercontactnum>
+<brokername id="-1">All Risks, Ltd.</brokername>
+<brokercity id="-1">Bellevue</brokercity>
+<brokerst id="-1">WA</brokerst>
+<brokercountry id="-1">USA</brokercountry>
+<brokertype id="-1">Wholesaler</brokertype>
+<brokerregion id="-1">West</brokerregion>
+<brokerdivision id="-1">Pacific</brokerdivision>
+<brokergroup id="-1">AllRisks</brokergroup>
+<uw_primary id="-1"></uw_primary>
+<uw_secondary id="-1"></uw_secondary>
+<brokercontactname id="-1">Corky Weber</brokercontactname>
+<brokercontactemail id="-1">cweber@allrisks.com</brokercontactemail>
+<brokerphone id="-1">(425) 882-6970</brokerphone>
+<capitolagencycode id="26590707">70448</capitolagencycode>
+<bkr_comm_details>
+<origbkrcommprct id="29428314">20</origbkrcommprct>
+<waiveflag id="33574625">N</waiveflag>
+<newbkrcommprct id="34069025">0</newbkrcommprct>
+<actbkrcommprct id="-1">20</actbkrcommprct>
+</bkr_comm_details>
+</producer>
+<basic_info>
+<product enumerated_id="20525" id="31916925">Technology / Media / Cyber</product>
+<datesubmitted id="-1">09/15/2018</datesubmitted>
+<underwriter id="26590807">Alice Ergovich</underwriter>
+<renewalunderwriter id="-1">Alice Ergovich</renewalunderwriter>
+<product enumerated_id="20525" id="31916925">Technology / Media / Cyber</product>
+<primaryclass id="-1">DE</primaryclass>
+<primaryclassdescription id="32231025">Design - Graphic / Production / Industrial</primaryclassdescription>
+<secondaryclass id="-1">PA</secondaryclass>
+<secondaryclassdescription id="32231125">Package Design</secondaryclassdescription>
+<naicscode id="32338425">541420</naicscode>
+<nr_sgi id="31925325">New</nr_sgi>
+<vertical id="31919625">Technology</vertical>
+<nr_sgi id="31925325">New</nr_sgi>
+<naicscode id="32338425">541420</naicscode>
+<servicesprovided id="34051225">Test data in XML for TMC Product when enter something</servicesprovided>
+</basic_info>
+<subn>
+<submissionnum id="-1">1</submissionnum>
+</subn>
+<addl_info>
+<bindereffdate id="-1">09/20/2018</bindereffdate>
+<binderexpdate id="-1">10/20/2018</binderexpdate>
+<extrptprdexpdate id="-1"></extrptprdexpdate>
+<canceleffdate id="-1"></canceleffdate>
+<cancelreason id="-1"></cancelreason>
+<cancelflat_rewrite id="-1">N</cancelflat_rewrite>
+<hasins_1sttimebuyer id="-1"></hasins_1sttimebuyer>
+<keeprnwlwithuw id="-1">N</keeprnwlwithuw>
+<hasclaims id="-1">N</hasclaims>
+</addl_info>
+<addl_calcs>
+<limitfactor id="-1">0</limitfactor>
+<deductiblefactor id="-1"></deductiblefactor>
+</addl_calcs>
+<admin>
+<rnwl_qa_kickoutreason id="-1"></rnwl_qa_kickoutreason>
+</admin>
+<claim_hist>
+<claimfree id="-1"></claimfree>
+<claimfree_credit id="31987525">0</claimfree_credit>
+<claimactsurcharge_factor id="-1">1</claimactsurcharge_factor>
+</claim_hist>
+<forms_and_endts>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">WHAT TO DO IF YOU HAVE A CLAIM OR POTENTIAL CLAIM OR INCIDENT</formtitles>
+<formnums id="-1">N-201 (09/16)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">CapSpecialty Technology / Media / Cyber Policy</formtitles>
+<formnums id="-1">P-TMC-CW2010 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">New York - Service of Suit</formtitles>
+<formnums id="-1">E-9000-NY (02/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Bodily Injury Extension Endorsement</formtitles>
+<formnums id="-1">E-TMC-4085 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Business Interruption Loss and Extra Expenses Coverage Endorsement</formtitles>
+<formnums id="-1">E-TMC-4146 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Definition of Content Change Endorsement</formtitles>
+<formnums id="-1">E-TMC-4155 (09/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Definition of Damages Change Endorsement - Punitive Damages</formtitles>
+<formnums id="-1">E-TMC-4200 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Financial / Healthcare / Employee Benefit Plan Exclusion Endorsement</formtitles>
+<formnums id="-1">E-TMC-4069 (09/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Lanham Act Unfair Competition Coverage</formtitles>
+<formnums id="-1">E-TMC-4502 (07/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Privacy Breach Response Services Notification Change Endorsement</formtitles>
+<formnums id="-1">E-TC-CO4141 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Settlement Change Endorsement</formtitles>
+<formnums id="-1">E-TC-4092 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Unencrypted Laptops / Portable Devices Exclusion Endorsement</formtitles>
+<formnums id="-1">E-TC-4133 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Exclusion of Certified Acts of Terrorism</formtitles>
+<formnums id="-1">E-PL-7015 (04/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+</forms_and_endts>
+<miscellaneous>
+<renewal_quickautuo id="-1"></renewal_quickautuo>
+<eligibleforadm id="-1">N</eligibleforadm>
+</miscellaneous>
+<rating_basis>
+<coverages id="-1">E&amp;amp;O</coverages>
+<coverages_desc id="-1">Technology and Internet</coverages_desc>
+<covglayer id="-1">Primary</covglayer>
+<covgtype id="31995925">Claims Made &amp; Reported</covgtype>
+<claimexpense id="32128825">Within the Limits</claimexpense>
+<carriername id="26509507">Capitol Specialty Insurance Corporation</carriername>
+<an id="31924625">Surplus Lines</an>
+<ratingquotedate id="22120805">09/22/2018</ratingquotedate>
+<segmentnum id="32115525"></segmentnum>
+<firstdollar id="-1">N</firstdollar>
+<terrorismcovg id="31918825">Y</terrorismcovg>
+<tria_acceptorreject id="-1">R</tria_acceptorreject>
+<terrorismpremprct id="33697125"></terrorismpremprct>
+<ratingdesc id="-1">Quote</ratingdesc>
+<standard_insuredactivities id="33307225"></standard_insuredactivities>
+</rating_basis>
+<rating_init_calcs>
+<ratingbasis id="31905125"></ratingbasis>
+<ratingbasies_adjusted id="34050325"></ratingbasies_adjusted>
+<ratingbasis_adjusted_desc id="34050425"></ratingbasis_adjusted_desc>
+<baserate id="-1"></baserate>
+<baseded id="34048825"></baseded>
+<riskfactor id="32135225"></riskfactor>
+<premiumafterriskfactor id="-1"></premiumafterriskfactor>
+<retrotype id="-1">NA</retrotype>
+<prioractsexcluded id="32039525">Yes</prioractsexcluded>
+<retrofactordefault id="34043725">Yes</retrofactordefault>
+<retrofactorused id="34043625">Yes</retrofactorused>
+<retrodate id="28164105">09/20/2018</retrodate>
+</rating_init_calcs>
+<rating_structure>
+<limiteachact id="32118525">1000000</limiteachact>
+<limitaggregate id="32197425">2000000</limitaggregate>
+<sublimit_covered id="-1"></sublimit_covered>
+<sublimit_amts id="-1">0</sublimit_amts>
+<dedeachact id="32118625">10000</dedeachact>
+<dedaggregate id="33290725"></dedaggregate>
+<cxratingmod_defaultfactor_3 id="-1"></cxratingmod_defaultfactor_3>
+<coveragemod_defaultfactor_1_3 id="-1"></coveragemod_defaultfactor_1_3>
+<coveragemod_minfactor_1_3 id="-1"></coveragemod_minfactor_1_3>
+<coveragemod_maxfactor_1_3 id="-1"></coveragemod_maxfactor_1_3>
+</rating_structure>
+<coverage_mods>
+<financial_healthcare_employee_benefit_exclusion_type id="34068725">Modify ERISA</financial_healthcare_employee_benefit_exclusion_type>
+<financial_healthcare_employee_benefit_exclusion id="34068625">TRUE</financial_healthcare_employee_benefit_exclusion>
+<bodily_injury_and_property_damage_sublimit_bipd_type id="34051925">Bodily Injury (BI)</bodily_injury_and_property_damage_sublimit_bipd_type>
+<bodily_injury_and_property_damage_sublmit_limit_type id="34068525">Standard</bodily_injury_and_property_damage_sublmit_limit_type>
+<bodily_injury_property_damage id="32428625">TRUE</bodily_injury_property_damage>
+<settlement_type id="34048525">Percentage Change plus Pay Settle</settlement_type>
+<settlement id="34048425">TRUE</settlement>
+<encrypted_laptop_and_portable_devices_coverage_indicator id="34048325">Exclusion</encrypted_laptop_and_portable_devices_coverage_indicator>
+<encrypted_laptop_and_portable_devices_coverage id="32216825">TRUE</encrypted_laptop_and_portable_devices_coverage>
+<privacy_breach_response_services id="32124025">TRUE</privacy_breach_response_services>
+<notification_limit_type id="32372725"># of Records</notification_limit_type>
+<bodily_injury_and_property_damage_coverage_sublimit id="32124125">TRUE</bodily_injury_and_property_damage_coverage_sublimit>
+<lanham_at_unfair_competition_coverage id="33109325">TRUE</lanham_at_unfair_competition_coverage>
+</coverage_mods>
+<coverage_mods_rating_structure>
+</coverage_mods_rating_structure>
+<hazard_mods>
+</hazard_mods>
+<Hazard_Mods_Claims>
+</Hazard_Mods_Claims>
+</policy>
+<policy>
+<main>
+<policynumber id="-1">SGC0010005-01</policynumber>
+<policynumber_prefix id="32807925">SGC0010005</policynumber_prefix>
+<policynumber_suffix id="33661325">01</policynumber_suffix>
+<policyeffdate id="33660725">09/03/2018</policyeffdate>
+<policyexpdate id="33660825">09/03/2019</policyexpdate>
+<rnwlofpolexpdate id="33660825"></rnwlofpolexpdate>
+<policyexpdate id="33660825"></policyexpdate>
+<rnwlofpolicynum id="-1"></rnwlofpolicynum>
+<rnwlofpolicyproduct_sn id="-1"></rnwlofpolicyproduct_sn>
+<renewal_quickauto id="-1">N</renewal_quickauto>
+<renewal_form id="32807825">UWWB</renewal_form>
+<change_renewal_type id="-1">FALSE</change_renewal_type>
+<renewal_type id="-1">FALSE</renewal_type>
+<is_policy_an_annual_term id="32681925">Yes</is_policy_an_annual_term>
+</main>
+<account>
+<appname id="29238814">Excelligence Learning Corporation; etal</appname>
+<appaddr1 id="29325214">2 Lower Ragsdale Drive, Suite 200</appaddr1>
+<appaddr2 id="210417"></appaddr2>
+<appcity id="29326314">Madison</appcity>
+<appstate id="210419">WI</appstate>
+<appregion id="-1">Midwest</appregion>
+<appcountry id="210423">USA</appcountry>
+<appzip id="29327414">53562</appzip>
+<appdivision id="-1">East North Central</appdivision>
+<appdba id="32976225">Discount School Supply</appdba>
+<apppka id="32208725">Excelligence Learning Corporation; etal</apppka>
+<phone id="30589146"></phone>
+<website id="29236214">www.excelligencelearning.com</website>
+<appnum id="-1">1027</appnum>
+<statetrannum id="-1"></statetrannum>
+<oniselection id="32976125">Marketing Logistics, Inc. </oniselection>
+<clmhistevaluw id="34051725"></clmhistevaluw>
+</account>
+<producer>
+<brokernum id="-1">1090</brokernum>
+<brokercontactnum id="-1">9</brokercontactnum>
+<brokername id="-1">Burns &amp;amp; Wilcox, Ltd. - Denver</brokername>
+<brokercity id="-1">Centennial</brokercity>
+<brokerst id="-1">CO</brokerst>
+<brokercountry id="-1">USA</brokercountry>
+<brokertype id="-1">Wholesaler</brokertype>
+<brokerregion id="-1">West</brokerregion>
+<brokerdivision id="-1">Mountain</brokerdivision>
+<brokergroup id="-1">Burns</brokergroup>
+<uw_primary id="-1"></uw_primary>
+<uw_secondary id="-1"></uw_secondary>
+<brokercontactname id="-1">Ryan Alger</brokercontactname>
+<brokercontactemail id="-1">RRAlger@Burns-Wilcox.Com</brokercontactemail>
+<brokerphone id="-1">(303) 804-0200</brokerphone>
+<capitolagencycode id="26590707">70085</capitolagencycode>
+<bkr_comm_details>
+<origbkrcommprct id="29428314">20</origbkrcommprct>
+<waiveflag id="33574625">R</waiveflag>
+<newbkrcommprct id="34069025">7.5</newbkrcommprct>
+<actbkrcommprct id="-1">7.5</actbkrcommprct>
+</bkr_comm_details>
+</producer>
+<basic_info>
+<product enumerated_id="20525" id="31916925">Technology / Media / Cyber</product>
+<datesubmitted id="-1">09/15/2018</datesubmitted>
+<underwriter id="26590807">Debbie Saphire</underwriter>
+<renewalunderwriter id="-1">Nicole Callahan</renewalunderwriter>
+<product enumerated_id="20525" id="31916925">Technology / Media / Cyber</product>
+<primaryclass id="-1">FH</primaryclass>
+<primaryclassdescription id="32231025">Fashion</primaryclassdescription>
+<secondaryclass id="-1">ST</secondaryclass>
+<secondaryclassdescription id="32231125">Fashion Stylist / Consultant</secondaryclassdescription>
+<naicscode id="32338425">541490</naicscode>
+<nr_sgi id="31925325">New</nr_sgi>
+<vertical id="31919625">Technology</vertical>
+<nr_sgi id="31925325">New</nr_sgi>
+<naicscode id="32338425">541490</naicscode>
+<servicesprovided id="34051225"></servicesprovided>
+</basic_info>
+<subn>
+<submissionnum id="-1">1</submissionnum>
+</subn>
+<addl_info>
+<bindereffdate id="-1">09/03/2018</bindereffdate>
+<binderexpdate id="-1">10/03/2018</binderexpdate>
+<extrptprdexpdate id="-1"></extrptprdexpdate>
+<canceleffdate id="-1"></canceleffdate>
+<cancelreason id="-1"></cancelreason>
+<cancelflat_rewrite id="-1">N</cancelflat_rewrite>
+<hasins_1sttimebuyer id="-1"></hasins_1sttimebuyer>
+<keeprnwlwithuw id="-1">N</keeprnwlwithuw>
+<hasclaims id="-1">N</hasclaims>
+</addl_info>
+<addl_calcs>
+<limitfactor id="-1">0</limitfactor>
+<deductiblefactor id="-1"></deductiblefactor>
+</addl_calcs>
+<admin>
+<rnwl_qa_kickoutreason id="-1"></rnwl_qa_kickoutreason>
+</admin>
+<claim_hist>
+<claimfree id="-1"></claimfree>
+<claimfree_credit id="31987525">0</claimfree_credit>
+<claimactsurcharge_factor id="-1">1</claimactsurcharge_factor>
+</claim_hist>
+<forms_and_endts>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">WHAT TO DO IF YOU HAVE A CLAIM OR POTENTIAL CLAIM OR INCIDENT</formtitles>
+<formnums id="-1">N-201 (09/16)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">CapSpecialty Technology / Media / Cyber Policy</formtitles>
+<formnums id="-1">P-TMC-CW2010 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Service of Suit</formtitles>
+<formnums id="-1">E-9000 (02/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Administrative or Regulatory Action Claim Expenses Change Endorsement</formtitles>
+<formnums id="-1">E-TMC-4064 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Definition of Content Change Endorsement</formtitles>
+<formnums id="-1">E-TMC-4155 (09/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Financial / Healthcare / Employee Benefit Plan Exclusion Endorsement - Employee Privacy Incident</formtitles>
+<formnums id="-1">E-TMC-4217 (11/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Property Damage Extension - Sublimit</formtitles>
+<formnums id="-1">E-TMC-4511 (03/18)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Settlement Change Endorsement - Percentage</formtitles>
+<formnums id="-1">E-TC-4198 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Unencrypted Laptops / Portable Devices Sublimit and Retention Change Endorsement</formtitles>
+<formnums id="-1">E-TC-4140 (08/15)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Cap On Losses from Certified Acts of Terrorism</formtitles>
+<formnums id="-1">E-PL-7012 (04/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Conditional Exclusion of Terrorism</formtitles>
+<formnums id="-1">E-PL-7013 (04/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+<form>
+<formnumbering id="-1">  </formnumbering>
+<formtitles id="-1">Disclosure Pursuant to Terrorism Risk Insurance Act</formtitles>
+<formnums id="-1">E-PL-7014 (04/17)</formnums>
+<fill_ins>
+</fill_ins>
+</form>
+</forms_and_endts>
+<miscellaneous>
+<renewal_quickautuo id="-1"></renewal_quickautuo>
+<eligibleforadm id="-1">N</eligibleforadm>
+</miscellaneous>
+<rating_basis>
+<coverages id="-1">E&amp;amp;O</coverages>
+<coverages_desc id="-1">Technology and Internet</coverages_desc>
+<covglayer id="-1">Primary</covglayer>
+<covgtype id="31995925">Claims Made &amp; Reported</covgtype>
+<claimexpense id="32128825">Within the Limits</claimexpense>
+<carriername id="26509507">Capitol Specialty Insurance Corporation</carriername>
+<an id="31924625">Surplus Lines</an>
+<ratingquotedate id="22120805">09/22/2018</ratingquotedate>
+<segmentnum id="32115525"></segmentnum>
+<firstdollar id="-1">N</firstdollar>
+<terrorismcovg id="31918825">Y</terrorismcovg>
+<tria_acceptorreject id="-1">A</tria_acceptorreject>
+<terrorismpremprct id="33697125"></terrorismpremprct>
+<ratingdesc id="-1">Quote</ratingdesc>
+<standard_insuredactivities id="33307225"></standard_insuredactivities>
+</rating_basis>
+<rating_init_calcs>
+<ratingbasis id="31905125"></ratingbasis>
+<ratingbasies_adjusted id="34050325"></ratingbasies_adjusted>
+<ratingbasis_adjusted_desc id="34050425"></ratingbasis_adjusted_desc>
+<baserate id="-1"></baserate>
+<baseded id="34048825"></baseded>
+<riskfactor id="32135225"></riskfactor>
+<premiumafterriskfactor id="-1"></premiumafterriskfactor>
+<retrotype id="-1">NA</retrotype>
+<prioractsexcluded id="32039525">Yes</prioractsexcluded>
+<retrofactordefault id="34043725">Yes</retrofactordefault>
+<retrofactorused id="34043625">Yes</retrofactorused>
+<retrodate id="28164105">09/03/2018</retrodate>
+</rating_init_calcs>
+<rating_structure>
+<limiteachact id="32118525">500000</limiteachact>
+<limitaggregate id="32197425">500000</limitaggregate>
+<sublimit_covered id="-1"></sublimit_covered>
+<sublimit_amts id="-1">0</sublimit_amts>
+<dedeachact id="32118625">2500</dedeachact>
+<dedaggregate id="33290725"></dedaggregate>
+<cxratingmod_defaultfactor_3 id="-1"></cxratingmod_defaultfactor_3>
+<coveragemod_defaultfactor_1_3 id="-1"></coveragemod_defaultfactor_1_3>
+<coveragemod_minfactor_1_3 id="-1"></coveragemod_minfactor_1_3>
+<coveragemod_maxfactor_1_3 id="-1"></coveragemod_maxfactor_1_3>
+</rating_structure>
+<coverage_mods>
+<administrative_and_regulatory_proceedings_coverage_defense_only_professional_services_coverage id="33145725">TRUE</administrative_and_regulatory_proceedings_coverage_defense_only_professional_services_coverage>
+<encrypted_laptop_and_portable_devices_coverage_indicator id="34048325">Sublimit &amp; Retention</encrypted_laptop_and_portable_devices_coverage_indicator>
+<encrypted_laptop_and_portable_devices_coverage id="32216825">TRUE</encrypted_laptop_and_portable_devices_coverage>
+<settlement_type id="34048525">Percentage Change Only</settlement_type>
+<settlement id="34048425">TRUE</settlement>
+<financial_healthcare_employee_benefit_exclusion_type id="34068725">Employee Privacy</financial_healthcare_employee_benefit_exclusion_type>
+<financial_healthcare_employee_benefit_exclusion id="34068625">TRUE</financial_healthcare_employee_benefit_exclusion>
+<bodily_injury_and_property_damage_sublimit_bipd_type id="34051925">Property Damage (PD)</bodily_injury_and_property_damage_sublimit_bipd_type>
+<bodily_injury_and_property_damage_sublmit_limit_type id="34068525">Sublimit</bodily_injury_and_property_damage_sublmit_limit_type>
+<bodily_injury_property_damage id="32428625">TRUE</bodily_injury_property_damage>
+</coverage_mods>
+<coverage_mods_rating_structure>
+</coverage_mods_rating_structure>
+<hazard_mods>
+</hazard_mods>
+<Hazard_Mods_Claims>
+</Hazard_Mods_Claims>
+</policy>
+</policies>
+</policy_export>
